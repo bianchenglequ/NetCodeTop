@@ -8,6 +8,10 @@
 =
 （排名不分先后）<br>
 
+**78、简单、易用的配置文件操作库（sharpconfig）**：简单、易用的CFG/INI配置操作库，可以用文本或二进制格式读取、修改和保存配置文件和流，该库与.NET、.NET Core和Mono Framework完全兼容。<br>
+GitHub：https://github.com/cemdervis/sharpconfig<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941180&idx=1&sn=f8f6294d00c4a74e78c47ae38e177506&chksm=b1bb1ce986cc95ff653e023a108cbf752d2902e3e55bc74eccd72d7358ef6bc41b0961ef0952&token=729068876&lang=zh_CN#rd)
+
 **77、统计PC端软件所使用的时长（Tai）**：这是一个基于.Net开发的，统计PC端每一个软件所使用的时长，统计的原理是根据软件从获取焦点到失去焦点的时长。<br>
 GitHub：https://github.com/Planshit/Tai<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941114&idx=1&sn=5bdba0e5811a9c37162b6e15a49ed9b0&chksm=b1bb1c2f86cc9539df97f886fd44a0fe438db4d604f08a576baa8eb67fcc04270add0db1c40d&token=692027498&lang=zh_CN#rd)
