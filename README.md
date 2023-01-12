@@ -8,6 +8,10 @@
 =
 （排名不分先后）<br>
 
+**79、单点登录系统（fulusso）**：基于.NetCore 3.1、React开发的开源项目，支持账号密码、手机短信、第三方登录，采用前后端分离架构。<br>
+GitHub：https://github.com/fuluteam/fulusso<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941237&idx=1&sn=b94cebdb529f2949f96b39856c5dc432&chksm=b1bb1ca086cc95b63858d21485385220dc6da3535faba8cfb8cb4d650f36fad17a61c0332f18&token=729068876&lang=zh_CN#rd)
+
 **78、简单、易用的配置文件操作库（sharpconfig）**：简单、易用的CFG/INI配置操作库，可以用文本或二进制格式读取、修改和保存配置文件和流，该库与.NET、.NET Core和Mono Framework完全兼容。<br>
 GitHub：https://github.com/cemdervis/sharpconfig<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941180&idx=1&sn=f8f6294d00c4a74e78c47ae38e177506&chksm=b1bb1ce986cc95ff653e023a108cbf752d2902e3e55bc74eccd72d7358ef6bc41b0961ef0952&token=729068876&lang=zh_CN#rd)
