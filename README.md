@@ -8,6 +8,11 @@
 =
 （排名不分先后）<br>
 
+**80、简单、功能完整的WMS​仓库管理系统（ModernWMS）**：基于.NetCore 7、Vue 3开发的开源项目，支持中英文，界面简单清爽，采用前后端分离架构。<br>
+Github：https://github.com/fjykTec/ModernWMS<br>
+Gitee：https://gitee.com/modernwms/ModernWMS<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941268&idx=1&sn=5c1695f3848374f01eaaed827104a4af&chksm=b1bb1d4186cc945776d6dd2cb2147962525ae7988d862cc3ff2deee6f890dbbc147841ed3d20&token=729068876&lang=zh_CN#rd)
+
 **79、单点登录系统（fulusso）**：基于.NetCore 3.1、React开发的开源项目，支持账号密码、手机短信、第三方登录，采用前后端分离架构。<br>
 GitHub：https://github.com/fuluteam/fulusso<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941237&idx=1&sn=b94cebdb529f2949f96b39856c5dc432&chksm=b1bb1ca086cc95b63858d21485385220dc6da3535faba8cfb8cb4d650f36fad17a61c0332f18&token=729068876&lang=zh_CN#rd)
