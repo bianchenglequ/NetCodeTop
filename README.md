@@ -8,6 +8,11 @@
 =
 （排名不分先后）<br>
 
+**81、一个强大、支持100多种格式.Net图片操作库（Magick.NET）**：这是基于.NET Standard开发的开源项目，支持100的图片格式，可以在C#/VB.NET/.NET Core直接使用。
+如果需要操作AI/EPS/PDF/PS、Video 格式，需要额外安装插件。<br>
+Github：https://github.com/dlemstra/Magick.NET<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941285&idx=1&sn=a9875b47470beb056a6e5521a57c9d53&chksm=b1bb1d7086cc946661420051393b15ffb410c45b5a7f00a168abe3fff31428bc11b5b56f4b38&token=1670143906&lang=zh_CN#rd)
+
 **80、简单、功能完整的WMS​仓库管理系统（ModernWMS）**：基于.NetCore 7、Vue 3开发的开源项目，支持中英文，界面简单清爽，采用前后端分离架构。<br>
 Github：https://github.com/fjykTec/ModernWMS<br>
 Gitee：https://gitee.com/modernwms/ModernWMS<br>
