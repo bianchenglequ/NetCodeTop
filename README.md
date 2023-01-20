@@ -8,6 +8,11 @@
 =
 （排名不分先后）<br>
 
+**82、.Net Core开发的支付SDK（paylink）**：基于.NetCore 开发的支付SDK，支持微信支付、支付宝支付平台，作者一直在迭代升级，支持最新版本.Net Core 7。<br>
+Github：https://github.com/essensoft/paylink<br>
+Gitee：https://gitee.com/essensoft/paylink<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941358&idx=1&sn=6f7e68f6cac726c6742d4b0939d086e4&chksm=b1bb1d3b86cc942d680b10effe5054178da4b1d247b11a5c68bec6758c88de6a9fdf90b5c5be&token=1678997811&lang=zh_CN#rd)
+
 **81、一个强大、支持100多种格式.Net图片操作库（Magick.NET）**：这是基于.NET Standard开发的开源项目，支持100的图片格式，可以在C#/VB.NET/.NET Core直接使用。
 如果需要操作AI/EPS/PDF/PS、Video 格式，需要额外安装插件。<br>
 Github：https://github.com/dlemstra/Magick.NET<br>
