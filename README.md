@@ -8,6 +8,10 @@
 =
 （排名不分先后）<br>
 
+**83、一个跨平台执行外部命令的C#开源库（CliWrap）**：这是基于.NetCore 开发的C#库，一个用于与外部命令行界面交互的库，功能强大、使用简单的库。<br>
+Github：https://github.com/Tyrrrz/CliWrap<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941394&idx=1&sn=1335044bcc2871be936531da7b318fa5&chksm=b1bb1dc786cc94d10dee120a7c372d0b02a93b7650d814278b8a7d1170c476fb8e8a1d02fdff&token=597815597&lang=zh_CN#rd)
+
 **82、.Net Core开发的支付SDK（paylink）**：基于.NetCore 开发的支付SDK，支持微信支付、支付宝支付平台，作者一直在迭代升级，支持最新版本.Net Core 7。<br>
 Github：https://github.com/essensoft/paylink<br>
 Gitee：https://gitee.com/essensoft/paylink<br>
