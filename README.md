@@ -4,15 +4,21 @@
 
 文章最新首发于微信公众号 **编程乐趣**，您可以关注获取最新的文章。
 
+
+
 技术交流
 =
 也可扫下面二维码，加我个人微信，备注：**加群**，拉你进技术交流群，与更多程序员，交流开源项目和编程知识。
 
-<img src="https://github.com/bianchenglequ/NetCodeTop/blob/main/wx.png" width="200">
+<img src="https://github.com/bianchenglequ/NetCodeTop/blob/main/wx.png" height="150"><img src="https://github.com/bianchenglequ/NetCodeTop/blob/main/gzh.jpg" height="150">
 
 项目列表
 =
 （排名不分先后）<br>
+
+**84、基于C#开发的Socket扩展库（SuperSocket）**：一个基于C#开发的，一个轻量级的可扩展套接字应用程序框架，让我们可以轻松构建一个套接字应用程序，让我们无需考虑套接字的连接维护等问题，只需专注业务的开发。<br>
+Github：https://github.com/kerryjiang/SuperSocket<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941411&idx=1&sn=ff51bf25fbb9eb5491a3b0044ec8cdf4&chksm=b1bb1df686cc94e0c491211dfc9f936952e0c223ce926d9bbeaee6259ab3d24383e23ffff224&token=187621747&lang=zh_CN#rd)
 
 **83、一个跨平台执行外部命令的C#开源库（CliWrap）**：这是基于.NetCore 开发的C#库，一个用于与外部命令行界面交互的库，功能强大、使用简单的库。<br>
 Github：https://github.com/Tyrrrz/CliWrap<br>
