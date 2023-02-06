@@ -16,6 +16,21 @@
 =
 （排名不分先后）<br>
 
+**87、前后端分离.NetCore+Angular快速开发框架（osharp）**：一个基于.NetCore开发的快速开发框架，项目采用模块化架构、最新的技术栈、项目高度封装了依赖注入、日志（Log4net、Nlog）、缓存（Redis）、身份认证、WebApi、权限授权、多数据库等模块，能让我们快速的应用于实际的项目，只需专注于业务开发。
+
+前端项目有多个示例项目，包含Vue版本、Mvc 版本（Layui）、Angular版本。<br>
+Github：https://github.com/dotnetcore/osharp<br>
+Gitee：https://gitee.com/i66soft/osharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941563&idx=1&sn=e63db52ead7bf8d5cda636fe1a53c97b&chksm=b1bb1a6e86cc93782a03ae76cf024361a0d8358437f5844744992cf1de1ca7efef2936f7b420&token=827010214&lang=zh_CN#rd)
+
+**86、Dapper扩展CRUD基本操作库（Dapper-Extensions）**：这个是Dapper小型扩展库，通过为POCO添加基本CRUD操作，来扩展Dapper。对于复杂的查询场景，也增加了扩展。<br>
+Github：https://github.com/tmsmith/Dapper-Extensions<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941445&idx=1&sn=9076498ed390894062a70b68b33c716e&chksm=b1bb1d9086cc9486842aef6577e8460cc9e6bf63f1809f03966be8cc12f9f1477849df4eebf2&token=827010214&lang=zh_CN#rd)
+
+**85、支持Word, Excel, CSV, Email等30多种格式的操作库（toxy）**：基于.Net开发的数据/文本操作开源项目，支持docx、xlsx、xls、pdf、csv、txt、epub、html等30多种格式，使用简单友好，是一个可以帮助我们识别文件格式，并将数据/文本提取为统一结构的智能框架。<br>
+Github：https://github.com/nissl-lab/toxy<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941439&idx=1&sn=d13b91167552bed9e65c8c63568dea78&chksm=b1bb1dea86cc94fc3dd161542dcffe423e45569e62578aa49c8c50b9afe8a6366a675be75b80&token=827010214&lang=zh_CN#rd)
+
 **84、基于C#开发的Socket扩展库（SuperSocket）**：一个基于C#开发的，一个轻量级的可扩展套接字应用程序框架，让我们可以轻松构建一个套接字应用程序，让我们无需考虑套接字的连接维护等问题，只需专注业务的开发。<br>
 Github：https://github.com/kerryjiang/SuperSocket<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941411&idx=1&sn=ff51bf25fbb9eb5491a3b0044ec8cdf4&chksm=b1bb1df686cc94e0c491211dfc9f936952e0c223ce926d9bbeaee6259ab3d24383e23ffff224&token=187621747&lang=zh_CN#rd)
