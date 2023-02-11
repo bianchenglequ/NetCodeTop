@@ -16,6 +16,19 @@
 =
 （排名不分先后）<br>
 
+**90、配置中心（AgileConfig）**：这是一个基于.Net Core开发的，轻量级配置中心、部署使用简单方便。该项目只具备必要的功能，主要用于轻量级的项目。<br>
+Github：https://github.com/dotnetcore/AgileConfig<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941596&idx=1&sn=25d7a8c4c5540d7e90678c008c1f9e9d&chksm=b1bb1a0986cc931f5121ec1967394c2151bd900eed9e5779b1f7716e0b1f1fcf2826cb9b6ce5&token=1836672426&lang=zh_CN#rd)
+
+**89、EF Core轻量级分表分库、读写分离（sharding-core）**：这是一个针对EF Code高性能、轻量级分表分库、读写分离开源项目，可以让我们方便快速接入、或者改造原有项目，几乎零成本接入。<br>
+Github：https://github.com/dotnetcore/sharding-core<br>
+Gitee：https://gitee.com/xuejm/sharding-core<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941584&idx=1&sn=92cc91cc8be62be568ad3f901c2c31be&chksm=b1bb1a0586cc93138a0db5b0274b7cd79e9c0a3bf5afcde91b23099578833922840f5ee5c065&token=1836672426&lang=zh_CN#rd)
+
+**88、WPF开发的B站视频下载开源项目（downkyi）**：这是一款基于WPF开发的，B站下载工具，操作界面简洁，支持多线程下载、音频提取、去水印、断点续传等功能。<br>
+Github：https://github.com/leiurayer/downkyi<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941578&idx=1&sn=89afd0efa4cefac3ecfc32a82fc89b5f&chksm=b1bb1a1f86cc93095900ed1e5b9a59f304f1b955056986bd90fc0acc23a390be3731ee159941&token=1836672426&lang=zh_CN#rd)
+
 **87、前后端分离.NetCore+Angular快速开发框架（osharp）**：一个基于.NetCore开发的快速开发框架，项目采用模块化架构、最新的技术栈、项目高度封装了依赖注入、日志（Log4net、Nlog）、缓存（Redis）、身份认证、WebApi、权限授权、多数据库等模块，能让我们快速的应用于实际的项目，只需专注于业务开发。
 
 前端项目有多个示例项目，包含Vue版本、Mvc 版本（Layui）、Angular版本。<br>
