@@ -16,6 +16,25 @@
 =
 （排名不分先后）<br>
 
+**93、WinForm开源UI组件（SunnyUI）**：这是一个基于.Net Framework、.Net 6+开发的，WinForm开源UI框架，框架包含常用的控件库、工具类库、扩展类库、单窗口库、多窗口库。
+默认风格是模仿Element的主题风格，同时也包含其他风格主题。<br>
+Github：https://github.com/yhuse/SunnyUI<br>
+Gitee：https://gitee.com/yhuse/SunnyUI<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941653&idx=1&sn=d27dfccb9ef1158d517faad29769a644&chksm=b1bb1ac086cc93d67dbce5335d4f3197f4728adb6801724e040cb262ed827cd0ae7586f33896&token=652492327&lang=zh_CN#rd)
+
+**92、日历转换开源工具库（lunar-csharp）**：这是有多开发语言版本、支持阳历、阴历、佛历和道历的日历转换的工具，还支持星座、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋、凶煞宜忌、吉神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。
+
+此工具功能非常全面，用于做节日、节气提醒、黄历查询、星座查询等等。
+
+该工具有多个开发语言版本：javascript、java、c#、php、python、go、typescript、flutter、swift。<br>
+Github：https://github.com/6tail/lunar-csharp<br>
+Gitee：https://gitee.com/6tail/lunar-csharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941612&idx=1&sn=1513bd4cab2e2ce5b6ffc9aa2f17c0e4&chksm=b1bb1a3986cc932f8e959d3fbf2374e76ce0a71f5c1b65ff4729aeb476054f4e640e1a0e9962&token=652492327&lang=zh_CN#rd)
+
+**91、Websocket群聊、私聊（FreeIM）**：这是一个基于.Net Core开发的、简单、高性能的通讯组件，支持点对点发送、群聊、在线状态的订阅。该项目还包含群聊例子，可以用于学习。<br>
+Github：https://github.com/2881099/FreeIM<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941603&idx=1&sn=cccd5bcbfa1501f8b067316b48d8590a&chksm=b1bb1a3686cc9320a343cf5e6a1743ae4c35ff84971c159942fbc2931b434d2e14cb95a9b032&token=652492327&lang=zh_CN#rd)
+
 **90、配置中心（AgileConfig）**：这是一个基于.Net Core开发的，轻量级配置中心、部署使用简单方便。该项目只具备必要的功能，主要用于轻量级的项目。<br>
 Github：https://github.com/dotnetcore/AgileConfig<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941596&idx=1&sn=25d7a8c4c5540d7e90678c008c1f9e9d&chksm=b1bb1a0986cc931f5121ec1967394c2151bd900eed9e5779b1f7716e0b1f1fcf2826cb9b6ce5&token=1836672426&lang=zh_CN#rd)
