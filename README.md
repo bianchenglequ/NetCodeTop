@@ -16,6 +16,14 @@
 =
 （排名不分先后）<br>
 
+**95、数据库、Redis等开源监控解决方案（Opserver）**：这是有 Stack Overflow 的开源监控产品，基于.Net Core开发的监控解决方案。它可以独立监控多个系统，监控信息包含CPU、内存、网络、硬件等有关信息，它为每个监控的系统提供一个总体监控信息，方便我们运维方便查看服务器情况与定位问题。<br>
+Github：https://github.com/opserver/Opserver<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941694&idx=1&sn=669f4c646d71f38dd19bb1c4db2a07ba&chksm=b1bb1aeb86cc93fdd3667cddd8cdba6e5f95534f054ad1b7f2b806aa501ceac7ccad9a601e9b&token=1494353529&lang=zh_CN#rd)
+
+**94、网页蜘蛛爬虫（DotnetSpider）**：这是一个基于.Net Core开发的、Web爬虫开源项目，一个轻量级、高性能、简便的框架；框架集成了爬取、数据分析提取、代理等功能，可以帮助我们快速的完成爬取的功能。<br>
+Github：https://github.com/dotnetcore/DotnetSpider<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941671&idx=1&sn=613afaaf2abadab2404b4d17ad9f5d88&chksm=b1bb1af286cc93e4d15282c3655c62911c44d28faffef588f5a2ca657c1d04f9f03bf7741619&token=1494353529&lang=zh_CN#rd)
+
 **93、WinForm开源UI组件（SunnyUI）**：这是一个基于.Net Framework、.Net 6+开发的，WinForm开源UI框架，框架包含常用的控件库、工具类库、扩展类库、单窗口库、多窗口库。
 默认风格是模仿Element的主题风格，同时也包含其他风格主题。<br>
 Github：https://github.com/yhuse/SunnyUI<br>
