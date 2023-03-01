@@ -16,6 +16,14 @@
 =
 （排名不分先后）<br>
 
+**97、前后端分离的通用后台管理系统（DncZeus）**：这是基于.Net 7 + Vue.js开发的、前后端分离框架，前端UI框架采用iView，该项目只有基础功能模块，不包含具体的业务模块，大家可以基于此框架，进行二次开发，或者用来学习。<br>
+Github：https://github.com/lampo1024/DncZeus<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941831&idx=1&sn=cd3b027cf2e27deed4d08e21925dd6af&chksm=b1bb1b1286cc9204df9d17798be95dc3f104c98d3ee82c4c17b2618f37594d36493fba65c5d4&token=323478566&lang=zh_CN#rd)
+
+**96、.Net Core开源缓存中间件（EasyCaching）**：一个基于.Net Core开发的缓存中间件，它支持各种缓存并提供了很多高级功能。它的主要目标是让开发人员开发更简单、特别是一些复杂的缓存场景。<br>
+Github：https://github.com/dotnetcore/EasyCaching<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941759&idx=1&sn=b701c623e57872caca7c7e60ca8b9861&chksm=b1bb1aaa86cc93bcf8f95dcf6f1f32b0de374d0b7cb2bcc79bbe4f6b442ffad823395ef3d01d&token=323478566&lang=zh_CN#rd)
+
 **95、数据库、Redis等开源监控解决方案（Opserver）**：这是有 Stack Overflow 的开源监控产品，基于.Net Core开发的监控解决方案。它可以独立监控多个系统，监控信息包含CPU、内存、网络、硬件等有关信息，它为每个监控的系统提供一个总体监控信息，方便我们运维方便查看服务器情况与定位问题。<br>
 Github：https://github.com/opserver/Opserver<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941694&idx=1&sn=669f4c646d71f38dd19bb1c4db2a07ba&chksm=b1bb1aeb86cc93fdd3667cddd8cdba6e5f95534f054ad1b7f2b806aa501ceac7ccad9a601e9b&token=1494353529&lang=zh_CN#rd)
