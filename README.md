@@ -16,6 +16,19 @@
 =
 （排名不分先后）<br>
 
+**99、内置浏览器窗体应用程序界面框架（NanUI）**：这是基于.Net Core开发的、内置Chromium内核的WinForms应用框架，该框架UI简洁漂亮，内置了客户端与网页通信功能，让你可以更好地通过JavaScript与客户端交互。
+该应用框架只具备基础功能，大家可以根据自己的需求，进行二次开发。<br>
+Github：https://github.com/NetDimension/NanUI/<br>
+Gitee：https://gitee.com/dotNetChina/NanUI/<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941862&idx=1&sn=9747056d9f13b0dd0892c1a8c96c893b&chksm=b1bb1b3386cc9225a222768df1b0518e5c1f7346ac1513ef6c0de79b4a9297e1e8784a9797a3&token=323478566&lang=zh_CN#rd)
+
+
+**98、快速启动工具（SystemTrayMenu）**：这是基于.Net 6开发的、开源工具，它可以让我们快速定位文件、软件，并直接打开，可以提升我们的工作效率，节省查找文件的时间。
+
+它默认打开我们指定的根目录文件夹，在这个文件夹内，我们可以放入一些常用文件、软件快捷方式、网页快捷方式、资源等等。<br>
+Github：https://github.com/Hofknecht/SystemTrayMenu<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941862&idx=1&sn=9747056d9f13b0dd0892c1a8c96c893b&chksm=b1bb1b3386cc9225a222768df1b0518e5c1f7346ac1513ef6c0de79b4a9297e1e8784a9797a3&token=323478566&lang=zh_CN#rd)
+
 **97、前后端分离的通用后台管理系统（DncZeus）**：这是基于.Net 7 + Vue.js开发的、前后端分离框架，前端UI框架采用iView，该项目只有基础功能模块，不包含具体的业务模块，大家可以基于此框架，进行二次开发，或者用来学习。<br>
 Github：https://github.com/lampo1024/DncZeus<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941831&idx=1&sn=cd3b027cf2e27deed4d08e21925dd6af&chksm=b1bb1b1286cc9204df9d17798be95dc3f104c98d3ee82c4c17b2618f37594d36493fba65c5d4&token=323478566&lang=zh_CN#rd)
