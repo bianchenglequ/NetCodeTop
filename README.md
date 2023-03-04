@@ -16,6 +16,12 @@
 =
 （排名不分先后）<br>
 
+**100、计算机时区、语言环境模拟器（Locale-Emulator）**：这是基于C#开发的、语言模拟器，它可以让你一键切换环境，方便我们开发测试，默认支持四十多种语言，也可以自己自定义环境。
+
+平常玩游戏，出现因时区不对，导致乱码的，也可以通过模拟环境来解决。<br>
+Github：https://github.com/xupefei/Locale-Emulator<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941889&idx=1&sn=deea1669cae407240aab2e52561846e7&chksm=b1bb1bd486cc92c29b46446cb8e51ff03e59faab54e449a5ebd49e13fb89f981fd0d54ea1751&token=323478566&lang=zh_CN#rd)
+
 **99、内置浏览器窗体应用程序界面框架（NanUI）**：这是基于.Net Core开发的、内置Chromium内核的WinForms应用框架，该框架UI简洁漂亮，内置了客户端与网页通信功能，让你可以更好地通过JavaScript与客户端交互。
 该应用框架只具备基础功能，大家可以根据自己的需求，进行二次开发。<br>
 Github：https://github.com/NetDimension/NanUI/<br>
