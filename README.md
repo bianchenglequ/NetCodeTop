@@ -16,6 +16,10 @@
 =
 （排名不分先后）<br>
 
+**101、C#公共帮助类（Locale-Emulator）**：集合网络上比较常用的C#帮助类、公共类，涉及CSV、数据库、PDF、FTP、IP、时间、字符串、拼音、日历、科学计数、线程、视频、验证码、条形码、加密等内容的帮助类。<br>
+Github：https://github.com/Jimmey-Jiang/Common.Utility<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941931&idx=1&sn=9904369a256ac63181569ab7ae34995c&chksm=b1bb1bfe86cc92e8359bf2f76358310a890ce55d8e56a2f6d753cf38b18a9c2e987bfd3a6a35&token=154573484&lang=zh_CN#rd)
+
 **100、计算机时区、语言环境模拟器（Locale-Emulator）**：这是基于C#开发的、语言模拟器，它可以让你一键切换环境，方便我们开发测试，默认支持四十多种语言，也可以自己自定义环境。
 
 平常玩游戏，出现因时区不对，导致乱码的，也可以通过模拟环境来解决。<br>
