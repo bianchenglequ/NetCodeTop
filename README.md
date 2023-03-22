@@ -16,6 +16,23 @@
 =
 （排名不分先后）<br>
 
+**106、常用设计模式之.Net示例代码合集（Magicodes.IE）**：这是一个采用C#编写的、23种常用设计模式代码合集，目前已支持.Net 6。
+<br>
+Github：https://github.com/sheng-jie/Design-Pattern<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942050&idx=1&sn=fe237c914adf1fde435af9312346da97&chksm=b1bb187786cc916128d999ed5873178ac29e3b5b51061b7f95ba6095c963a4aab8a7607856d5&token=1364299678&lang=zh_CN#rd)
+
+**105、数据库导入导出的开源项目（Magicodes.IE）**：这些基于.Net Core开发的、导入导出的通用库，支持格式：Html、PDF、Word、Excel，可以让我们只需编写少量代码，就能快速实现导入导出的需求。<br>
+Github：https://github.com/dotnetcore/Magicodes.IE<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942031&idx=1&sn=b9c4b5d15256ff6c5b09832f2ffacea8&chksm=b1bb185a86cc914cefebae643a60e63be545724cdcd67ec6ed0022a19ffdfea8de75e4395acd&token=1364299678&lang=zh_CN#rd)
+
+**104、多平台、多语言餐厅点餐系统（TradingSystem）**：这是基于.Net Framework开发的，支持手机、平板、PC等平台、多语言版本开源的点餐系统，非常适合餐厅、便利店、超市、酒店等，该系统基础功能完成，可以基于二次开发，快速完成项目交付。<br>
+Github：https://github.com/oybab/TradingSystem<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942013&idx=1&sn=d04a05f363956891a808b36312839d22&chksm=b1bb1ba886cc92be5be4f9c6a62214313aa39b63cd5d79c3e9623b3bc3e4480aa3452974d313&token=1364299678&lang=zh_CN#rd)
+
+**103、.NetCore+Element前后端分离学生管理系统（Student.Achieve.Manager）**：这是一套基于.Net Core 3.1开发的、开源的、前后端分离的学习管理系统，功能包含学生、老师、课程、考试、成绩管理，所使用的技术也还不是特别老，特别适合初学者用来学习，或者学习群体基于此项目做毕业设计。<br>
+Github：https://github.com/anjoy8/Student.Achieve.Manager<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941993&idx=1&sn=a51e1537b6cafcb48cd980a77e73bbb0&chksm=b1bb1bbc86cc92aa5bd4ca77f2f606b415734179e5bea4171f5cd96acc8d714e68068e55f8ea&token=1364299678&lang=zh_CN#rd)
+
 **102、TDesign风格的Blazor企业级UI组件库（TDesignBlazor）**：基于 TDesign 的 Blazor 企业级组件库，TDesign是腾讯内部经过多年提炼总结的，其UI漂亮、通用性较强，使用该框架，可以避免我们重复造轮子，帮助我们快速的完成项目的开发与交付。<br>
 Github：https://github.com/AchievedOwner/TDesignBlazor<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449941977&idx=1&sn=1a242f5ee4c9f7d408333282833fcdc0&chksm=b1bb1b8c86cc929ae26e5aeede66529e7838fa074a915078d3c390992ddba035b60e723590b4&token=319617782&lang=zh_CN#rd)
