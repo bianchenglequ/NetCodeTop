@@ -16,6 +16,23 @@
 =
 （排名不分先后）<br>
 
+**109、一套涵盖31个开源的Winform UI控件库（winform.controls）**：这是一套基于.Net Framework开发的、开源的UI控件库，包括窗体6个、组件库25个，支持皮肤切换，控件还是比较齐全的，大家可以直接使用，或者用来学习改造为自己的组件库。
+<br>
+Github：https://github.com/kwonganding/winform.controls<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942093&idx=1&sn=3ca47ebc05cfd7baf7b498e7e0f15243&chksm=b1bb181886cc910eed59b4a85b2ef944feaa85ee57e2a2892d0cd181a6fe55e5fcbf5bdcdb2c&token=2141465042&lang=zh_CN#rd)
+
+**108、基于.Net Core开发的开源DNS服务器（DnsServer）**：这是基于.Net Core开发的、开源的项目，可以让你拥有属于自己的DNS服务器，支持跨平台的，而且拥有非常友好的Web界面与监控。
+
+它可用于监控网络日志、提升网站加载速度、屏蔽特定域名、加密等场景。
+<br>
+Github：https://github.com/TechnitiumSoftware/DnsServer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942072&idx=1&sn=174055bb9bfa9f7c535b3e89380c2046&chksm=b1bb186d86cc917b69efe208e6796713e30829a92863bb43422738ee99e10ae5f8c16ffa200f&token=2141465042&lang=zh_CN#rd)
+
+**107、基于.Net Core开源的库存订单管理系统（Asp.Net-Core-Inventory-Order-Management-System）**：该项目是基于Asp.Net Core Mvc开发的库存订单管理系统，主要实现模块有仓库、产品、供应商、客户、采购订单、销售订单、发货、收货等等，该项目是单体架构，技术栈也不是最新的，大家可用于学习为主，实际项目开发需要二次开发。
+<br>
+Github：https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942059&idx=1&sn=6ab9cb0bd4c6593845e752293dda4567&chksm=b1bb187e86cc916876fadc7800dbc901674983022acfc41a8bbf23ef610a9c6094ec585c8c24&token=2141465042&lang=zh_CN#rd)
+
 **106、常用设计模式之.Net示例代码合集（Magicodes.IE）**：这是一个采用C#编写的、23种常用设计模式代码合集，目前已支持.Net 6。
 <br>
 Github：https://github.com/sheng-jie/Design-Pattern<br>
