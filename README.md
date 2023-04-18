@@ -16,6 +16,44 @@
 =
 （排名不分先后）<br>
 
+**116、一个基于.Net Framework开发的Windows右键菜单管理工具（ContextMenuManager）**：这是基于.Net Framework开发的、开源的Windows右键菜单管理项目，支持操作系统有：Windows Vista、7、8、10，除了可以启用和禁用右键菜单的项目，也可以自定义菜单项目、菜单命令，支持国际化多语言。
+<br>
+Github：https://github.com/BluePointLilac/ContextMenuManager<br>
+Gitee：https://gitee.com/BluePointLilac/ContextMenuManager<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942211&idx=1&sn=b6434fc05e129e6ed08de0a19ba827d9&chksm=b1bb189686cc91802ff1d7a021cd099d27c388b6e56a86e26bef851aa82daaf1dd048584b7d5&token=1058733570&lang=zh_CN#rd)
+
+**115、一个WPF开发的、界面简洁漂亮的音频播放器（dopamine-windows）**：这是一个基于C# + WPF开发的，界面外观简洁大方，操作体验良好的音频播放器。
+
+支持各种音频格式，包括：MP4、WMA、OGG、FLAC、M4A、AAC、WAV、APE 和 OPUS；支持标记、实时显示歌词等功能；支持换肤、中英文等主流语言。
+<br>
+Github：https://github.com/digimezzo/dopamine-windows<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942201&idx=1&sn=6ea2a6c2301d2065469406095862ccb3&chksm=b1bb18ec86cc91fa0be50911e6891ed17149b2fa0270643e09c18cf4d6366e5d4cadfbf7b93d&token=1058733570&lang=zh_CN#rd)
+
+**114、一个Email简单高效处理.Net开源库（MimeKit）**：这是一个基于C#开发的，针对MIME（多用途邮件扩展）消息创建与解析，该项目简单易用、可用于消息解析、消息创建、消息修改和消息发送，还支持加密与签名功能。
+<br>
+Github：https://github.com/jstedfast/MimeKit<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942195&idx=1&sn=8d7a784d0e7894fd2fc9a919e09df278&chksm=b1bb18e686cc91f03e63eb17824490cceb39b68485edb939413af37081a1c98054db711dcf60&token=1058733570&lang=zh_CN#rd)
+
+**113、基于.Net开源Html解析器（AngleSharp）**：这是一个基于.Net开发的，Html代码解析器，支持通过C#实现类似Jquery的方式来解析Html源码、节点创建、节点删除、节点修改、属性的添加修改等，还支持SVG、XML、MathML等格式，此外还能解析Css。
+<br>
+Github：https://github.com/AngleSharp/AngleSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942188&idx=1&sn=36d503c36fc84e09bfe72418afc79bfc&chksm=b1bb18f986cc91ef50871c9c3b8b1fe1c0cee31446b982b84d6a6d9b604e86cb4ccfb5dd04bf&token=1058733570&lang=zh_CN#rd)
+
+**112、HTTP客户端库（MoreLINQ）**：这是一个基于.Net开发的Http客户端库，它具备序列化、请求与响应类型的检测、身份认证等功能，可以说是最流行的Http客户端库了，已经超过10w个项目在使用。
+<br>
+Github：https://github.com/restsharp/RestSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942176&idx=1&sn=737e4ac8c36399cc2566fed1a4f707fe&chksm=b1bb18f586cc91e325fb2b621e73086ec1744dcfbb7becb5f090b15411acd2b874035bf07ce0&token=1058733570&lang=zh_CN#rd)
+
+**111、C#版本LINQ增强开源库（MoreLINQ）**：该项目与LINQ规范保持一致，针对Objects进行扩展，总共扩展了100多个方法，功能非常齐全且强大。
+<br>
+Github：https://github.com/morelinq/MoreLINQ<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942165&idx=1&sn=5aa47c485731d9a9da42a3b389212989&chksm=b1bb18c086cc91d6dde899277536af25df0cecd2d9da80d4e524e8aa97a4353e32c9a41a51c8&token=1058733570&lang=zh_CN#rd)
+
+**110、基于.Net5+Vue+iView前后端分离通用权限开源系统（CNet_Admin）**：这是一个基于.Net5+Vue+iView开发的、前后端分离通用权限系统，系统采用三层架构，该项目功能简单、只具备用户权限功能。
+<br>
+Github：https://github.com/chi8708/CNet_Admin<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942154&idx=1&sn=1533cbbd4cc0677451d945483cfaeb34&chksm=b1bb18df86cc91c9600d7a7fa8a74a135e6b4cef2ba6622bcfe027a3a0777b1be8dbb0c352c5&token=1058733570&lang=zh_CN#rd)
+
 **109、一套涵盖31个开源的Winform UI控件库（winform.controls）**：这是一套基于.Net Framework开发的、开源的UI控件库，包括窗体6个、组件库25个，支持皮肤切换，控件还是比较齐全的，大家可以直接使用，或者用来学习改造为自己的组件库。
 <br>
 Github：https://github.com/kwonganding/winform.controls<br>
