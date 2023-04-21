@@ -16,6 +16,18 @@
 =
 （排名不分先后）<br>
 
+**118、一个.Net版本的ChatGPT SDK（ContextMenuManager）**：这个是根据OpenAI的开放API，封装的.Net SDK。目前官方的API都已经封装，包含生成文本、图片、获取模型等。
+<br>
+Github：https://github.com/betalgo/openai<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942239&idx=2&sn=29b821c9e04834a434ab5b7046335e13&chksm=b1bb188a86cc919ca5f632cfab2752073eea890fb2e8efc748fc7559f9e3efabca9af1e6ae62&token=1465704958&lang=zh_CN#rd)
+
+**117、基于.Net开发的ChatGPT客户端（ContextMenuManager）**：这是基于C#开发的客户端，兼容MacOS、Windows、Linux、Android、iOS系统，支持OpenAI_API_key自定义设置，还有API参数自定义设置。
+
+PC端版本支持快捷键操作，内置了多种对换模式：助理、翻译、开发人员、技术文章作者。
+<br>
+Github：https://github.com/wieslawsoltes/ChatGPT<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942239&idx=2&sn=29b821c9e04834a434ab5b7046335e13&chksm=b1bb188a86cc919ca5f632cfab2752073eea890fb2e8efc748fc7559f9e3efabca9af1e6ae62&token=1465704958&lang=zh_CN#rd)
+
 **116、一个基于.Net Framework开发的Windows右键菜单管理工具（ContextMenuManager）**：这是基于.Net Framework开发的、开源的Windows右键菜单管理项目，支持操作系统有：Windows Vista、7、8、10，除了可以启用和禁用右键菜单的项目，也可以自定义菜单项目、菜单命令，支持国际化多语言。
 <br>
 Github：https://github.com/BluePointLilac/ContextMenuManager<br>
