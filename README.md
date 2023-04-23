@@ -4,13 +4,13 @@
 
 文章最新首发于微信公众号 **编程乐趣**，您可以关注获取最新的文章。
 
-<img src="https://github.com/bianchenglequ/NetCodeTop/blob/main/gzh.jpg" height="150">
+<img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/gzh.jpg" height="150">
 
 技术交流
 =
 也可扫下面二维码，加我个人微信，备注：**加群**，拉你进技术交流群，与更多程序员，交流开源项目和编程知识。
 
-<img src="https://github.com/bianchenglequ/NetCodeTop/blob/main/wx.png" height="150">
+<img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/wx.png" height="150">
 
 项目列表
 =
