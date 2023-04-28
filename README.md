@@ -6,15 +6,15 @@
 
 <img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/gzh.jpg" height="150">
 
+🔥我正在星球编写教程，欢迎加入！
+
+👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](http://9l8.cn/i6Jh4)
+
 技术交流
 =
 也可扫下面二维码，加我个人微信，备注：**加群**，拉你进技术交流群，与更多程序员，交流开源项目和编程知识。
 
 <img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/wx.png" height="150">
-
-🔥我正在星球编写教程，欢迎加入！
-
-👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](http://9l8.cn/i6Jh4)
 
 项目列表
 =
