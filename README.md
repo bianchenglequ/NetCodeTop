@@ -20,6 +20,11 @@
 =
 （排名不分先后）<br>
 
+**119、.Net版本二维码生成器，可生成多种格式（QRCoder）**：这是基于C#开发的开源库，它可以让你简单、开始的创建二维码。支持.Net 3.5+，可以自定义像素、颜色、背景色、logo、logo大小、logo边框等属性的二维码。
+<br>
+Github：https://github.com/codebude/QRCoder<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942277&idx=1&sn=0f520069dbb33816fef7e8f5115eb69a&chksm=b1bb195086cc90462b224494e4f049b4e4594df0dd3ffbbad89f84400c5de37be24f7d0f8823&token=1672793428&lang=zh_CN#rd)
+
 **118、一个.Net版本的ChatGPT SDK（openai）**：这个是根据OpenAI的开放API，封装的.Net SDK。目前官方的API都已经封装，包含生成文本、图片、获取模型等。
 <br>
 Github：https://github.com/betalgo/openai<br>
