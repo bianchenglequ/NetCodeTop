@@ -60,7 +60,7 @@ Github：https://github.com/jstedfast/MimeKit<br>
 Github：https://github.com/AngleSharp/AngleSharp<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942188&idx=1&sn=36d503c36fc84e09bfe72418afc79bfc&chksm=b1bb18f986cc91ef50871c9c3b8b1fe1c0cee31446b982b84d6a6d9b604e86cb4ccfb5dd04bf&token=1058733570&lang=zh_CN#rd)
 
-**112、HTTP客户端库（MoreLINQ）**：这是一个基于.Net开发的Http客户端库，它具备序列化、请求与响应类型的检测、身份认证等功能，可以说是最流行的Http客户端库了，已经超过10w个项目在使用。
+**112、HTTP客户端库（RestSharp）**：这是一个基于.Net开发的Http客户端库，它具备序列化、请求与响应类型的检测、身份认证等功能，可以说是最流行的Http客户端库了，已经超过10w个项目在使用。
 <br>
 Github：https://github.com/restsharp/RestSharp<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942176&idx=1&sn=737e4ac8c36399cc2566fed1a4f707fe&chksm=b1bb18f586cc91e325fb2b621e73086ec1744dcfbb7becb5f090b15411acd2b874035bf07ce0&token=1058733570&lang=zh_CN#rd)
@@ -552,7 +552,7 @@ GitHub：https://github.com/CoreUnion/CoreShop<br>
 Gitee：https://gitee.com/CoreUnion/CoreShop?_from=gitee_search<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449939489&idx=1&sn=8d309e8a4993a58d8b79c69ef7fccfdd&chksm=b1bb227486ccab62225e574a82c55468633d89147819edb74382598e49f658a55595aaa0d206&token=692027498&lang=zh_CN#rd)
 
-**8、防掘金cms系统 （lin-cms-dotnetcore）**：CMS系统，采用.Net Core 6开发的，前端采用Vue前后端分离的架构<br>
+**8、仿掘金cms系统 （lin-cms-dotnetcore）**：CMS系统，采用.Net Core 6开发的，前端采用Vue前后端分离的架构<br>
 Github：https://github.com/luoyunchong/lin-cms-dotnetcore<br>
 Gitee：https://gitee.com/igeekfan/lin-cms-dotnetcore<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449939456&idx=2&sn=4d26d0f8ca76945c13d432fc69fbd5ac&chksm=b1bb225586ccab43caf88a93ec080d1dd7f70463cea71340ae3caff20f960a8c072a5eb02bda&token=692027498&lang=zh_CN#rd)
