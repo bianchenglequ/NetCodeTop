@@ -16,6 +16,8 @@
 
 <img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/wx.png" height="150">
 
+**.NetCore/C#全栈视频教程【500G】**，加我领取：xgbbwj，备注：教程。
+
 项目列表
 =
 （排名不分先后）<br>
