@@ -22,6 +22,30 @@
 =
 （排名不分先后）<br>
 
+**122、图片文字识别（PaddleOCRSharp）**：利用百度飞浆就能快速简单的实现文字识别功能，几行代码就可以集成。
+
+其中百度飞浆的PaddleOCR，就是专门针对文本识别的开发套件，包含的功能有：文本失败、文本检测、表格识别，支持中英文数字组合的识别、竖排、长文本识别，而且还针对小图做了优化，大大提升准确率。
+<br>
+Github：https://github.com/raoyutian/PaddleOCRSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942381&idx=1&sn=5f91392ffb2377acfbd7caf9d078a606&chksm=b1bb193886cc902eb444204c5bbd545c039efe40e95e9c29b1e6f04da7a179f689755ec65785&token=1793885237&lang=zh_CN#rd)
+
+
+**121、功能强大、易于使用、跨平台开源可视化图表（ScottPlot）**：基于C#开发的功能强大、易于使用、跨平台高质量的可视化图表库，可设置图表标题，提供了多种图表类型，包含折线图、散点图、柱形图、地图、条形图、饼图等。
+
+使用简单，只需几行代码，就可以快速集成。
+
+项目详细提供各个平台的示例教程，包含：WinForm、WPF、控制台、Avalonia、Eto、PowerShell、Notebook。
+<br>
+Github：https://github.com/ScottPlot/ScottPlot<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942368&idx=2&sn=22aa5349898a1a17de4e7ca79f5b8987&chksm=b1bb193586cc90239839cbe019dccedac8816a836cbb1d43b9bd35ff6b0b5150bbd27a2aec2d&token=1793885237&lang=zh_CN#rd)
+
+**120、音频分离桌面应用，可用于提取背景音乐（SpleeterGui）**：这是基于C#开发的UI界面，支持中文等多国语言、支持分离人声背景音乐的桌面软件，可用于提取背景音乐。
+
+底层核心是基于Python 3.7 和 Spleeter开发的。
+<br>
+Github：https://github.com/boy1dr/SpleeterGui<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942348&idx=1&sn=a1c0080f5fc2cd2694bbd1fb078aa1e9&chksm=b1bb191986cc900f9a2712a20b52c367b2c7bea94ca7c54e8b996ea952b5cdbe0f78c92f652e&token=1793885237&lang=zh_CN#rd)
+
 **119、.Net版本二维码生成器，可生成多种格式（QRCoder）**：这是基于C#开发的开源库，它可以让你简单、开始的创建二维码。支持.Net 3.5+，可以自定义像素、颜色、背景色、logo、logo大小、logo边框等属性的二维码。
 <br>
 Github：https://github.com/codebude/QRCoder<br>
