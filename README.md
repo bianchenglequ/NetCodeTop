@@ -22,6 +22,31 @@
 =
 （排名不分先后）<br>
 
+**126、窗口文本提取开源软件（WindowTextExtractor）**：这是一个基于.Net Framework开发的，功能强大的文本提取工具，它可以提取窗口标题、按钮文字、输入框的文本等，同时支持提取IE浏览器的网页文字。
+
+而且还支持获取窗体的信息、进程信息，这个功能非常适合用在需要监控窗体、进程的业务场景的项目。
+<br>
+Github：https://github.com/AlexanderPro/WindowTextExtractor<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942440&idx=1&sn=7c4038b80f3bfeb0443d156c830cbea7&chksm=b1bb19fd86cc90eb65b521a6404e61b9f1239642275a006ec1ff109757e2fa59223cd7a6b11e&token=981883363&lang=zh_CN#rd)
+
+
+**125、Windows的GIF录屏工具（ScreenToGif）**：这是基于.Net Core + WPF 开发的、开源项目，可将屏幕截图转为 GIF 动画。它的核心功能是能够简单、快速地截取整个屏幕或者选定区域，并将其转为 GIF动画，还支持自定义 GIF 动画效果、字幕、背景音乐。
+<br>
+Github：https://github.com/NickeManarin/ScreenToGif<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942425&idx=1&sn=0e7bce8d4e000248ff3cd823391bd959&chksm=b1bb19cc86cc90da6f5db2cc0697897a1606558f2738c3e93bb374de4e156baf7935c1632e0f&token=981883363&lang=zh_CN#rd)
+
+**124、动态壁纸软件（lively）**：这是基于.Net Core+WPF开发的、开源的动态壁纸软件，壁纸设置支持任何文件形式，包括：本地视频、网络视频、图片、Html、网络、Unity单机游戏、Godot游戏等；还支持自定义壁纸的属性，自定义壁纸。
+<br>
+Github：https://github.com/rocksdanister/lively<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942407&idx=1&sn=a3dd917633e669a7afe6aabd7f2309a2&chksm=b1bb19d286cc90c4248358b36964591de03af0416bd9d728079c93d489e767b2bdc8fc5b5ab9&token=981883363&lang=zh_CN#rd)
+
+**123、流媒体服务器和管理系统（jellyfin）**：这是基于.Net Core开发的，跨平台的开源项目；支持多种音视频格式，如MP3、MP4、AVI、WMV、FLV等；支持本地管理与远程管理，让管理员可以轻松的管理视频资源。
+
+而且该项目还提供多平台的客户端，支持Web、桌面、Liunx、安卓、苹果等平台的客户端，让用户可以随时随地观看视频。
+<br>
+Github：https://github.com/jellyfin/jellyfin<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942391&idx=1&sn=c9d8b6d8607b4dea488b264fbc4d739a&chksm=b1bb192286cc903483182a8f735953125906f5ed92c1b9927c4c02112f8f0593de00bb119d97&token=981883363&lang=zh_CN#rd)
+
 **122、图片文字识别（PaddleOCRSharp）**：利用百度飞浆就能快速简单的实现文字识别功能，几行代码就可以集成。
 
 其中百度飞浆的PaddleOCR，就是专门针对文本识别的开发套件，包含的功能有：文本失败、文本检测、表格识别，支持中英文数字组合的识别、竖排、长文本识别，而且还针对小图做了优化，大大提升准确率。
