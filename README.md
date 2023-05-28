@@ -2,7 +2,7 @@
 =
 收集GitHub上有关.Net有趣、有用、热门的开源项目。内容包括：Web开源框架、Win开源项目、开源库、实战项目、企业级项目等，让你用很短时间感受到开源的魅力，爱上开源！
 
-文章最新首发于微信公众号 **编程乐趣**，您可以关注获取最新的文章。
+文章最新首发于微信公众号 **编程乐趣**，您可以关注获取最新的文章。**关注公众号，回复：555，加入千人讨论组。**
 
 <img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/gzh.jpg" height="150">
 
@@ -21,6 +21,13 @@
 项目列表
 =
 （排名不分先后）<br>
+
+
+**127、基于.Net 7 + Razor Pages开源个人博客系统（Moonglade）**：基于.Net 7、Razor Pages开发的、开源项目。该项目核心功能有：文章、文章分类、归档、友情链接等功能、支持中英文。
+<br>
+Github：https://github.com/EdiWang/Moonglade<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942476&idx=1&sn=7809f6bc4f0e4f3f2cde5d306e7b1e2e&chksm=b1bb199986cc908ff676b75df50dd636a8fb4f7737cbc046b9d267056f31c93af7cd00daf11f&token=1795994684&lang=zh_CN#rd)
+
 
 **126、窗口文本提取开源软件（WindowTextExtractor）**：这是一个基于.Net Framework开发的，功能强大的文本提取工具，它可以提取窗口标题、按钮文字、输入框的文本等，同时支持提取IE浏览器的网页文字。
 
