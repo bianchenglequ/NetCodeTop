@@ -8,7 +8,7 @@
 
 🔥我正在星球编写教程，欢迎加入！
 
-👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942239&idx=1&sn=5c6c0dea1725b80a6f7a49b006ba2da6&chksm=b1bb188a86cc919c1a04fff1c185676311a66439da53bb543195bc2f23e87f7d9b54c67a7b03&token=1672793428&lang=zh_CN#rd)
+👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942430&idx=1&sn=3a5b4a42761d64598d28c8d97041f5df&chksm=b1bb19cb86cc90dde764143f9f140b4b41ad2c56692dc0719f392f2833bde342ead866d60d6a&scene=21#wechat_redirect)
 
 技术交流
 =
@@ -21,6 +21,19 @@
 项目列表
 =
 （排名不分先后）<br>
+
+**129、.Net强大的Excel控件，支持WinForm、WPF、Android（ReoGrid）**：这是一个开源的表格控制组件，支持Winform、WPF和Android平台，可以方便的加载、修改和导出Excel文件，支持数据格式、大纲、公式计算、图表、脚本执行等、还支持触摸滑动，可以方便地操作表格。
+总的来说是一个可以快速构建、具有高性能、良好交互、美观的UI表格控件。
+<br>
+Github：https://github.com/unvell/ReoGrid<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942557&idx=1&sn=cc5b6f658c2ed819b2dd9a93a46d5838&chksm=b1bb164886cc9f5e41a1c011c81f32f8e5a97e229cdbb1414ef5794607d20cccd758660e45da&token=522710465&lang=zh_CN#rd)
+
+
+**128、Asp.Net Core MVC快速开发开源框架（Serenity）**：这是一个基于ASP.NET Core / TypeScript 开发的、开源项目，此项目提供了客户模块、订单模块、产品模块、供应商模块、系统管理模块、基础通用模块、编辑器、表格、表单、UI控件等，方便项目二次开发。
+支持中文等语言、多个主题模板。
+<br>
+Github：https://github.com/serenity-is/Serenity<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942530&idx=1&sn=ba2bffb95dd229ea54b938795c781640&chksm=b1bb165786cc9f416b9c9fb3757ef11a1bce00740644e66be45ac61ad5108580627f067e4e71&token=522710465&lang=zh_CN#rd)
 
 
 **127、基于.Net 7 + Razor Pages开源个人博客系统（Moonglade）**：基于.Net 7、Razor Pages开发的、开源项目。该项目核心功能有：文章、文章分类、归档、友情链接等功能、支持中英文。
