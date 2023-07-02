@@ -22,6 +22,53 @@
 =
 （排名不分先后）<br>
 
+**136、一个C#跨平台的机器视觉和机器学习的开源库（emgucv）**：它是OpenCV的.NET封装版本，项目名称为EmguCV，它使得.NET开发人员能够调用OpenCV函数，从而快速建立复杂的视觉应用。EmguCV库包括视觉的许多领域，如工厂产品检验、医学影像、用户接口、摄像机标定、立体视觉和机器人等。
+<br>
+Github：https://github.com/emgucv/emgucv<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942720&idx=1&sn=3c11d89fb6c6c558961b9af48e478913&chksm=b1bb169586cc9f8310be881942e935a242e1cc772197d58ae5612750e6995faed497ef3dd223&scene=21#wechat_redirect)
+
+**135、一个高性能、低内存文件上传流.Net组件（uploadstream）**：一个基于 .NET 平台的开源项目，提供了一个简单易用的 API，可以在 Web 应用程序中快速集成文件上传功能。
+
+优化多部分流式文件上传性能：减少25%的CPU使用量、50%内存。
+<br>
+Github：https://github.com/ma1f/uploadstream<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942693&idx=1&sn=c00e3c873de1b686d7f6d82290ab1abc&chksm=b1bb16f086cc9fe6a4919d8232debbbbf34d5c24f5dc51a97af960b8c51c616b9fb8ba6eef40&scene=21#wechat_redirect)
+
+**134、推荐一个Excel与实体映射导入导出的C#开源库（ExcelMapper）**：这是一个C#开发的、用于将Excel文件映射为对象模型的开源工具，同样可以轻松将对实体对象存储为Excel格式文件。
+
+该项目的核心作用就是，让开发人员容易、快速、写入和操作Excel文件。
+<br>
+Github：https://github.com/mganss/ExcelMapper<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942677&idx=1&sn=d8261aa757a8e340baab630074b0ef4c&chksm=b1bb16c086cc9fd656fc885c0ae4a587c6df758dde8555fdb0114d4e90893975752a89962341&scene=21#wechat_redirect)
+
+**133、可托拉拽的WPF选项卡控件，强大好用！（Dragablz）**：这是一个基于WPF开发的，可扩展、高度可定制、轻量级的UI组件，支持拖拉拽功能，可以让开发人员快速实现需要选项卡窗口的系统。
+<br>
+Github：https://github.com/ButchersBoy/Dragablz<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942652&idx=1&sn=e74d22944bd4cddffc99ba6766b06472&chksm=b1bb162986cc9f3fac13484eef64622f5a550618dc6f2d7be5e7f4b4ced86fc69f611508648b&scene=21#wechat_redirect)
+
+**132、适合Windows桌面、Material Design设计风格、WPF美观控件库（MaterialDesignInXamlToolkit）**：这是一个适用于Windows桌面，全面且易于使用的控件库，遵循Google推测的Material Design设计风格。
+
+UI控件齐全，并且支持自定义主题颜色、字体等。
+<br>
+Github：https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942638&idx=1&sn=ea7a13fa6abe8dcdea8d56a9010bc30c&chksm=b1bb163b86cc9f2d78aa8650b3815411dbf73b52636f4697fbb06bf6aa02378bc54b40856b40&scene=21#wechat_redirect)
+
+**131、一个支持WinForms换肤的开源组件（MaterialSkin）**：这是一个支持自定义WinForms窗口、控件颜色、禁用状态、动画效果的皮肤组件。
+
+支持的组件有：多选框、分割线、按钮、文本框、单选按钮、输入框、Tab控件、右键菜单、列表、进度条。
+
+组件只能一键统一更换，不能随意自定义设置主题，有更多需求的，可以根据源码自行修改。
+<br>
+Github：https://github.com/IgnaceMaes/MaterialSkin<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942610&idx=1&sn=89eda5da05ca216582255684a811257e&chksm=b1bb160786cc9f11faaa465058ec994cfe183891ef4e51c951811ce7d797aeeeeb30aa347f95&scene=21#wechat_redirect)
+
+**130、一个手机也能跑的开源LLM模型（mlc-llm）**：这个项目名叫MLC-LLM，可以运行在任何设备的大模型，包含：iPhone、iPad、安卓、Windows、Liunx、MacBook、支持WebGPU的浏览器，其中Windows、Liunx要支持 CUDA 的 NVIDIA GPU。
+
+该项目还提供了采用C++编译好的简单示例，大家可以基于此进行封装，使用任何编程语言集成到自己的应用中去。
+<br>
+Github：https://github.com/mlc-ai/mlc-llm<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942571&idx=1&sn=2b3dc297508154b3830eb0121c5e01b0&chksm=b1bb167e86cc9f685393cfe4bbcad8360155f4da9e96d4b4f8b2d2b655f6a16c2918a7bea4bd&scene=21#wechat_redirect)
+
 **129、.Net强大的Excel控件，支持WinForm、WPF、Android（ReoGrid）**：这是一个开源的表格控制组件，支持Winform、WPF和Android平台，可以方便的加载、修改和导出Excel文件，支持数据格式、大纲、公式计算、图表、脚本执行等、还支持触摸滑动，可以方便地操作表格。
 总的来说是一个可以快速构建、具有高性能、良好交互、美观的UI表格控件。
 <br>
