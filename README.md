@@ -20,8 +20,8 @@
 
 项目分类
 =
-| [商城](https://github.com/bianchenglequ/NetCodeTop/blob/main/shop.md)    |
-| -------- |  
+| [商城](https://github.com/bianchenglequ/NetCodeTop/blob/main/shop.md)    | [WMS](https://github.com/bianchenglequ/NetCodeTop/blob/main/wms.md)    |
+| -------- |   -------- |  
 
 项目列表
 =
