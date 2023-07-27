@@ -27,6 +27,50 @@
 =
 （排名不分先后）<br>
 
+**141、一个类似Office用户界面的WPF库（gong-wpf-dragdrop）**：gong-wpf-dragdrop是一个开源的.NET项目，用于在WPF应用程序中实现拖放功能，可以让开发人员快速、简单的实现拖放的操作功能。
+可以在同一控件内或不同控件之间拖动数据以重新排序，支持插入、移动、复制到同一个或另一个控件集合中去，并支持操作预览效果功能。
+支持控件有：ListBox、ListView、TreeView和DataGrid、及其他ItemsControl。
+<br>
+Github：https://github.com/punker76/gong-wpf-dragdrop<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942894&idx=1&sn=3cd0fcdfa1acd8551968a206ded1d14c&chksm=b1bb173b86cc9e2d845906056fa5df1b335b6f92a54e0997d5d539c576461f587211e6dfed61&token=845208945&lang=zh_CN#rd)
+
+
+**140、一个类似Office用户界面的WPF库（Fluent.Ribbon）**：Fluent.Ribbon是一个开源的UI库，它提供了现代化的、易于使用的用户界面，可以用于创建各种类型的桌面应用程序。
+
+它基于WPF框架和XAML技术，采用了现代UI设计理念，可以帮助开发者创建具有吸引力和易用性的应用程序。
+
+支持自定义主题风格，支持自定义控件的大小。
+<br>
+Github：https://github.com/fluentribbon/Fluent.Ribbon<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942863&idx=1&sn=457e1a362fc4a290285718637336a3f5&chksm=b1bb171a86cc9e0c514893d2cc8319a078e1aa86eab69dc155012cd549efc4a72a22bcf64c31&token=845208945&lang=zh_CN#rd)
+
+
+**139、基于ASP.NET MVC开发的、开源的个人博客系统（BlogEngine.NET）**：基于.Net Framework 4.5开发的、开源博客系统，具有丰富的功能，包括文章发布、分类、标签、评论、订阅、统计等功能，同时也可以根据需要进行自定义扩展。
+
+提供了丰富的配置选项和API，用户可以通过配置和插件机制来定制自己的博客，例如选择不同的主题、添加自定义的字段和控件等。
+
+支持多语言，开发者可以根据需要添加新的语言支持，并可以为博客添加自定义的翻译。
+<br>
+Github：https://github.com/BlogEngine/BlogEngine.NET<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942850&idx=1&sn=80c6c540606062d5e06952ce56ab1daf&chksm=b1bb171786cc9e0164ce9315f500d7fbbe1a183e7423ba243bd995174546e0706012bfc7c22a&token=845208945&lang=zh_CN#rd)
+
+
+**138、支持多语言、多商店的商城，.Net7 + EF7领域驱动设计架构（Smartstore）**：Smartstore 支持桌面和移动平台、多语言、多商店、多货币的商城，并支持SEO优化，支持无限数量的产品和类别、报表、ESD、折扣、优惠券等等。
+
+还有一套全面的 CRM 和 CMS、销售、营销、付款和物流处理等工具可以满足所有需求的强大一体化解决方案。
+<br>
+Github：https://github.com/smartstore/Smartstore<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942804&idx=1&sn=776e4e554a6c065903e9bf47c5296920&chksm=b1bb174186cc9e579a8029170035a15844864ac4b00a7a9ecc3f2ae60427031f81f7f9382589&token=845208945&lang=zh_CN#rd)
+
+
+**137、推荐16个开源WPF自定义组件（PropertyTools）**：这是基于WPF开发的，为开发人员提供了一组方便使用自定义组件，并提供了各种常用的示例。
+
+包含组件：数据表格、属性列表、树形列表、选色器、单选框列表、下拉选择框、输入框、文件选择器、目录选择器、窗口拆分器、数字增减控件、链接控件、拖拉进度条、文本框、弹出框、自定义格式对话框。
+<br>
+Github：https://github.com/PropertyTools/PropertyTools<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942780&idx=1&sn=506b195a77e3f7604201d44ee3982bea&chksm=b1bb16a986cc9fbfcfdd43228e95d481bbe222a65dc9a49745d94323aa8a56bbe451e06c75d3&token=845208945&lang=zh_CN#rd)
+
+
 **136、一个C#跨平台的机器视觉和机器学习的开源库（emgucv）**：它是OpenCV的.NET封装版本，项目名称为EmguCV，它使得.NET开发人员能够调用OpenCV函数，从而快速建立复杂的视觉应用。EmguCV库包括视觉的许多领域，如工厂产品检验、医学影像、用户接口、摄像机标定、立体视觉和机器人等。
 <br>
 Github：https://github.com/emgucv/emgucv<br>
