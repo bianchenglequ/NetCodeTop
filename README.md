@@ -28,13 +28,14 @@
 （排名不分先后）<br>
 
 <a id="141"></a>
+
 **141、一个类似Office用户界面的WPF库（gong-wpf-dragdrop）**：gong-wpf-dragdrop是一个开源的.NET项目，用于在WPF应用程序中实现拖放功能，可以让开发人员快速、简单的实现拖放的操作功能。
 可以在同一控件内或不同控件之间拖动数据以重新排序，支持插入、移动、复制到同一个或另一个控件集合中去，并支持操作预览效果功能。
 支持控件有：ListBox、ListView、TreeView和DataGrid、及其他ItemsControl。
 <br>
 Github：https://github.com/punker76/gong-wpf-dragdrop<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942894&idx=1&sn=3cd0fcdfa1acd8551968a206ded1d14c&chksm=b1bb173b86cc9e2d845906056fa5df1b335b6f92a54e0997d5d539c576461f587211e6dfed61&token=845208945&lang=zh_CN#rd)
-
+<a id="140"></a>
 
 **140、一个类似Office用户界面的WPF库（Fluent.Ribbon）**：Fluent.Ribbon是一个开源的UI库，它提供了现代化的、易于使用的用户界面，可以用于创建各种类型的桌面应用程序。
 
@@ -43,8 +44,8 @@ Github：https://github.com/punker76/gong-wpf-dragdrop<br>
 支持自定义主题风格，支持自定义控件的大小。
 <br>
 Github：https://github.com/fluentribbon/Fluent.Ribbon<br>
-详细介绍：<a id="140" href="https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942863&idx=1&sn=457e1a362fc4a290285718637336a3f5&chksm=b1bb171a86cc9e0c514893d2cc8319a078e1aa86eab69dc155012cd549efc4a72a22bcf64c31&token=845208945&lang=zh_CN#rd">点击查看</a>
-
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942863&idx=1&sn=457e1a362fc4a290285718637336a3f5&chksm=b1bb171a86cc9e0c514893d2cc8319a078e1aa86eab69dc155012cd549efc4a72a22bcf64c31&token=845208945&lang=zh_CN#rd")
+<a id="139"></a>
 
 **139、基于ASP.NET MVC开发的、开源的个人博客系统（BlogEngine.NET）**：基于.Net Framework 4.5开发的、开源博客系统，具有丰富的功能，包括文章发布、分类、标签、评论、订阅、统计等功能，同时也可以根据需要进行自定义扩展。
 
@@ -54,7 +55,7 @@ Github：https://github.com/fluentribbon/Fluent.Ribbon<br>
 <br>
 Github：https://github.com/BlogEngine/BlogEngine.NET<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942850&idx=1&sn=80c6c540606062d5e06952ce56ab1daf&chksm=b1bb171786cc9e0164ce9315f500d7fbbe1a183e7423ba243bd995174546e0706012bfc7c22a&token=845208945&lang=zh_CN#rd)
-
+<a id="138"></a>
 
 **138、支持多语言、多商店的商城，.Net7 + EF7领域驱动设计架构（Smartstore）**：Smartstore 支持桌面和移动平台、多语言、多商店、多货币的商城，并支持SEO优化，支持无限数量的产品和类别、报表、ESD、折扣、优惠券等等。
 
@@ -62,7 +63,7 @@ Github：https://github.com/BlogEngine/BlogEngine.NET<br>
 <br>
 Github：https://github.com/smartstore/Smartstore<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942804&idx=1&sn=776e4e554a6c065903e9bf47c5296920&chksm=b1bb174186cc9e579a8029170035a15844864ac4b00a7a9ecc3f2ae60427031f81f7f9382589&token=845208945&lang=zh_CN#rd)
-
+<a id="137"></a>
 
 **137、推荐16个开源WPF自定义组件（PropertyTools）**：这是基于WPF开发的，为开发人员提供了一组方便使用自定义组件，并提供了各种常用的示例。
 
@@ -70,12 +71,13 @@ Github：https://github.com/smartstore/Smartstore<br>
 <br>
 Github：https://github.com/PropertyTools/PropertyTools<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942780&idx=1&sn=506b195a77e3f7604201d44ee3982bea&chksm=b1bb16a986cc9fbfcfdd43228e95d481bbe222a65dc9a49745d94323aa8a56bbe451e06c75d3&token=845208945&lang=zh_CN#rd)
-
+<a id="136"></a>
 
 **136、一个C#跨平台的机器视觉和机器学习的开源库（emgucv）**：它是OpenCV的.NET封装版本，项目名称为EmguCV，它使得.NET开发人员能够调用OpenCV函数，从而快速建立复杂的视觉应用。EmguCV库包括视觉的许多领域，如工厂产品检验、医学影像、用户接口、摄像机标定、立体视觉和机器人等。
 <br>
 Github：https://github.com/emgucv/emgucv<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942720&idx=1&sn=3c11d89fb6c6c558961b9af48e478913&chksm=b1bb169586cc9f8310be881942e935a242e1cc772197d58ae5612750e6995faed497ef3dd223&scene=21#wechat_redirect)
+<a id="135"></a>
 
 **135、一个高性能、低内存文件上传流.Net组件（uploadstream）**：一个基于 .NET 平台的开源项目，提供了一个简单易用的 API，可以在 Web 应用程序中快速集成文件上传功能。
 
@@ -83,6 +85,7 @@ Github：https://github.com/emgucv/emgucv<br>
 <br>
 Github：https://github.com/ma1f/uploadstream<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942693&idx=1&sn=c00e3c873de1b686d7f6d82290ab1abc&chksm=b1bb16f086cc9fe6a4919d8232debbbbf34d5c24f5dc51a97af960b8c51c616b9fb8ba6eef40&scene=21#wechat_redirect)
+<a id="134"></a>
 
 **134、推荐一个Excel与实体映射导入导出的C#开源库（ExcelMapper）**：这是一个C#开发的、用于将Excel文件映射为对象模型的开源工具，同样可以轻松将对实体对象存储为Excel格式文件。
 
@@ -90,11 +93,13 @@ Github：https://github.com/ma1f/uploadstream<br>
 <br>
 Github：https://github.com/mganss/ExcelMapper<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942677&idx=1&sn=d8261aa757a8e340baab630074b0ef4c&chksm=b1bb16c086cc9fd656fc885c0ae4a587c6df758dde8555fdb0114d4e90893975752a89962341&scene=21#wechat_redirect)
+<a id="133"></a>
 
 **133、可托拉拽的WPF选项卡控件，强大好用！（Dragablz）**：这是一个基于WPF开发的，可扩展、高度可定制、轻量级的UI组件，支持拖拉拽功能，可以让开发人员快速实现需要选项卡窗口的系统。
 <br>
 Github：https://github.com/ButchersBoy/Dragablz<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942652&idx=1&sn=e74d22944bd4cddffc99ba6766b06472&chksm=b1bb162986cc9f3fac13484eef64622f5a550618dc6f2d7be5e7f4b4ced86fc69f611508648b&scene=21#wechat_redirect)
+<a id="132"></a>
 
 **132、适合Windows桌面、Material Design设计风格、WPF美观控件库（MaterialDesignInXamlToolkit）**：这是一个适用于Windows桌面，全面且易于使用的控件库，遵循Google推测的Material Design设计风格。
 
@@ -102,6 +107,7 @@ UI控件齐全，并且支持自定义主题颜色、字体等。
 <br>
 Github：https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942638&idx=1&sn=ea7a13fa6abe8dcdea8d56a9010bc30c&chksm=b1bb163b86cc9f2d78aa8650b3815411dbf73b52636f4697fbb06bf6aa02378bc54b40856b40&scene=21#wechat_redirect)
+<a id="131"></a>
 
 **131、一个支持WinForms换肤的开源组件（MaterialSkin）**：这是一个支持自定义WinForms窗口、控件颜色、禁用状态、动画效果的皮肤组件。
 
@@ -111,6 +117,7 @@ Github：https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit<br>
 <br>
 Github：https://github.com/IgnaceMaes/MaterialSkin<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942610&idx=1&sn=89eda5da05ca216582255684a811257e&chksm=b1bb160786cc9f11faaa465058ec994cfe183891ef4e51c951811ce7d797aeeeeb30aa347f95&scene=21#wechat_redirect)
+<a id="130"></a>
 
 **130、一个手机也能跑的开源LLM模型（mlc-llm）**：这个项目名叫MLC-LLM，可以运行在任何设备的大模型，包含：iPhone、iPad、安卓、Windows、Liunx、MacBook、支持WebGPU的浏览器，其中Windows、Liunx要支持 CUDA 的 NVIDIA GPU。
 
