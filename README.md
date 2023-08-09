@@ -27,9 +27,49 @@
 =
 （排名不分先后）<br>
 
+<a id="146"></a>
+
+**146、一个.Net开源的关系管理系统（Rock）**：基于Asp.net Web 应用程序，功能模块有：人员管理、活动管理、财务订单管理、报告功能等。
+
+该项目有部分功能是针对教会管理，开发的一些功能，也可用来改造成自己行业的应用系统。
+<br>
+Github：https://github.com/SparkDevNetwork/Rock<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942983&idx=1&sn=fd24e2f0f3f7d933b6593bdd25854fc2&chksm=b1bb179286cc9e846098df56fd2a388b5c87d0e6bbb674692cab76cd4fa9371e750bc66417b8&token=438682209&lang=zh_CN#rd)
+<a id="145"></a>
+
+**145、用于自动化测试Windows应用程序的开源框架（FlauI）**：一个开源的.NET库，用于自动化测试Windows应用程序。它可以通过编写C#代码来模拟用户在应用程序中的操作，例如点击按钮、输入文本、移动鼠标、触摸、获取元素、获取窗口标题等。
+
+它提供了一个简单的API和精确的鼠标控制功能，让开发者能够轻松地编写自动化脚本，从而提高应用程序的测试效率和开发效率。
+<br>
+Github：https://github.com/FlaUI/FlaUI<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942958&idx=1&sn=818ffe1cf0f00155d316b69c85f9ac31&chksm=b1bb17fb86cc9eed6e59ae8fc85d618242209d9606be5b34494bd73129def310fbd53808dab1&token=438682209&lang=zh_CN#rd)
+<a id="144"></a>
+
+**144、.Net人脸识别认证的离线开源项目（ViewFaceCore）**：一个基于C#和.NET Core的开源项目，用于实现人脸识别和情感分析功能。它使用深度学习算法和计算机视觉技术，可以在图像或视频中检测和识别出人脸，并分析人脸的表情、情绪等特征。
+基于SeetaFace6封装开发的，SeetaFace6是中科视图开源的人脸识别引擎，大家也可以自行编译和封装。
+该项目可以用于各种应用场景，例如人机交互、安全监控、智能家居等。
+<br>
+Github：https://github.com/ViewFaceCore/ViewFaceCore<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942947&idx=1&sn=b020a4cf612ee5da251457b7938aea52&chksm=b1bb17f686cc9ee0b59e29492fa7e7d031345c0da53e1f8da81433eb0b80fd9c39c750bf5a33&token=438682209&lang=zh_CN#rd)
+<a id="143"></a>
+
+**143、一个Winform开源的UI工具包（Krypton）**：Krypton是一套开源的.Net组件，用于快速构建具有丰富UI交互的WinForms应用程序。
+丰富的UI控件，提供了48个基础控件，如按钮、文本框、标签、下拉菜单、树形控件、表格控件等等。
+还支持自定义主题，这使得开发者可以根据自己的需求，来定制应用程序的UI风格，提高用户体验。
+提供了丰富的交互功能，例如拖放、动画效果、右键菜单等。这些功能可以大大提高应用程序的易用性和交互性。
+<br>
+Github：https://github.com/ComponentFactory/Krypton<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942925&idx=1&sn=d3bae4891b0af40a6351dbf13320d23a&chksm=b1bb17d886cc9ecee73e5f9a29854c27e517ffdeb5adcac7c15f91c716263579d2027bb1f6b3&token=438682209&lang=zh_CN#rd)
+<a id="142"></a>
+
+**142、基于.Net开发的网络管理与监控工具（NETworkManager）**：基于.Net开发的、开源网络管理工具，该工具集成了网络监控软件、WiFi分析器、IP扫描仪、端口扫描仪、Ping监视器、网络测试与排错工具、远程访问工具等。
+这些工具可以帮助网络管理员有效地管理和维护网络，及时解决网络问题，提高网络的稳定性和可靠性。
+<br>
+Github：https://github.com/BornToBeRoot/NETworkManager<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942908&idx=1&sn=6cb3bd7f1aa0be812b6d77f2110ad3d5&chksm=b1bb172986cc9e3f25f05f899d7236c5fcb26bdf8d998bcbdd76a31097fba711f0ad07795067&token=438682209&lang=zh_CN#rd)
 <a id="141"></a>
 
-**141、一个类似Office用户界面的WPF库（gong-wpf-dragdrop）**：gong-wpf-dragdrop是一个开源的.NET项目，用于在WPF应用程序中实现拖放功能，可以让开发人员快速、简单的实现拖放的操作功能。
+**141、一个可拖拉实现列表排序的WPF开源控件（gong-wpf-dragdrop）**：gong-wpf-dragdrop是一个开源的.NET项目，用于在WPF应用程序中实现拖放功能，可以让开发人员快速、简单的实现拖放的操作功能。
 可以在同一控件内或不同控件之间拖动数据以重新排序，支持插入、移动、复制到同一个或另一个控件集合中去，并支持操作预览效果功能。
 支持控件有：ListBox、ListView、TreeView和DataGrid、及其他ItemsControl。
 <br>
