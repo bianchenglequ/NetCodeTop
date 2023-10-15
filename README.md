@@ -27,7 +27,92 @@
 =
 （排名不分先后）<br>
 
-<a id="146"></a>
+
+**160、.NET开源项目PowerArgs，将命令行参数转换为.NET对象，让程序更方便！（PowerArgs）**：PowerArgs是一个开源的.NET库，用于将命令行参数转换为.NET对象，方便开发人员在程序中使用。它还额外提供很多功能，如参数校验、自动生成使用帮助和tab补全等，适用于任何使用命令行接口的.NET应用程序。
+<br>
+Github：https://github.com/adamabdelhamed/PowerArgs<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943225&idx=1&sn=58275eb5bc4f9902d0f8ffadb1c3969d&chksm=b1bb14ec86cc9dfa975131d41108bd9aba11d7cc686bc9488a6c277d565d255a0a03049ed414&token=2098023827&lang=zh_CN#rd)
+
+
+
+**159、一个改善Entity Framework异常处理和错误信息的开源项目（EntityFramework.Exceptions）**：一个针对Entity Framework解决在异常处理方面的一些问题，为开发人员提供更好的异常处理和错误信息。
+
+该项目将Entity Framework的异常转换为更具可读性的异常信息，并提供更详细的错误描述，以便开发人员更好地理解和解决问题，从而有助于减少调试和修复问题的时间，从而提高开发效率。
+
+该项目支持的数据库有：SQLServer, PostgreSQL, SQLite, Oracle 和 MySql。
+<br>
+Github：https://github.com/Giorgi/EntityFramework.Exceptions<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943203&idx=1&sn=af8b2d87de5818f2784235cb367bacee&chksm=b1bb14f686cc9de0eeb24d8a5d511c3954e2877daac141756d2af6abf076462fea28bdcce942&token=2098023827&lang=zh_CN#rd)
+
+
+**158、一个C#扩展库，让Dapper的CRUD操作更简单（Dommel）**：Dommel是Dapper的简单扩展，基于POCO实现基本的CRUD，提供手动和自动多重映射、查询列表、同步异步方法，同时支持LINQ等功能。
+<br>
+Github：https://github.com/henkmollema/Dommel<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943191&idx=1&sn=079a99f43545e3c05802579824ec77b8&chksm=b1bb14c286cc9dd45532f2b71c2db4951cbbbf9bcf5999b1b2a506f56aa2e9c1d9b251677b48&token=2098023827&lang=zh_CN#rd)
+
+
+**157、一个库让你实现C#函数式的编程（language-ext）**：这个库大量扩展了C#方法，旨在提供一组类型安全且强大的函数式编程扩展，看上去很像C#的扩展，该项目的作者希望，让函数式编程更容易、更简洁、更高效，并且在使用中保持类型安全。
+<br>
+Github：https://github.com/louthy/language-ext<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943174&idx=1&sn=9495e1228f07bb9ab0fc8cb247717be5&chksm=b1bb14d386cc9dc5a0b98b652a66026c3d6f4bff9dc27bff99e5c131acebde159a41eeab231a&token=2098023827&lang=zh_CN#rd)
+
+**156、纯C#开发的解压缩开源库，解压缩文件从此变得如此简单！（SharpZipLib）**：一个完全由C#开发的、具备压缩和解压缩的功能，支持Zip，GZip，Tar和BZip2等格式，方便你集成到各种.NET项目中。
+<br>
+Github：https://github.com/icsharpcode/SharpZipLib<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943146&idx=1&sn=0dc7361b55e6eddbdb335e075a2b4cc9&chksm=b1bb143f86cc9d295dc8295e1459c11dd2c63993b320ee12ec9ace407c637f6c3054bfcab7e1&token=2098023827&lang=zh_CN#rd)
+
+**155、基于C#开发的适合Windows开源文件管理器（Files）**：一个基于C#开发、开源的文件管理器，适用于Windows，界面UI美观、方便轻松浏览文件。此外，支持创建和提取压缩文件，使文件压缩和解压缩变得轻而易举。
+<br>
+Github：https://github.com/files-community/Files<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943122&idx=1&sn=c576a9fab76ead96147636161c3b2dcd&chksm=b1bb140786cc9d116d4c42755eac61fedd5451e773a21eca7e0d09a662ef872dd86504800a55&token=2098023827&lang=zh_CN#rd)
+
+**154、提高程序灵活性和效率的利器：Natasha动态编译库（Natasha）**：基于Roslyn的C#动态程序集构建库，使用该库允许开发者动态运行C#代码，方便动态的新增和升级模块和代码，该项目还集成了域管理、插件管理等功能，可以很好的实现隔离，并且提供了完整的错误提示，方便开发者开发与调试。
+<br>
+Github：https://github.com/dotnetcore/Natasha<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943101&idx=1&sn=7b13e6af0cf5e68f44cab40d910a5464&chksm=b1bb146886cc9d7efd4a7d1cd3ea04e109536d33e5f5901be21f5e2a1459a387408c33051a6e&token=2098023827&lang=zh_CN#rd)
+
+**153、一个C#开发的NoSQL数据库（LiteDB）**：LiteDB是一个开源的、轻量级的数据库引擎，提供了简单、快速和可靠的数据存储功能，可用于任何移动、各种操作系统等平台。
+LiteDB采用C#开发，是一个单文件库，支持事务、索引等，并提供了简单易使用的接口，可以轻松地添加到任何项目中，为数据存储提供简单而有效的解决方案。
+<br>
+Github：https://github.com/mbdavid/LiteDB<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943087&idx=1&sn=fae3a0666aae02b7788f14291c7b3f22&chksm=b1bb147a86cc9d6c0dfe9892cfa13ec67ab8723ce324cf00c4cbd9d1df69fc58f1b23a5d45e8&token=2098023827&lang=zh_CN#rd)
+
+**152、一个基于Asp.Net Core + Angular + Bootstrap开源CMS系统（mix.core）**：是一个基于.NET Core框架的开源内容管理系统（CMS），提供了丰富的的基础功能和插件，包括文章发布、图片管理、文件管理、评论管理、标签管理等，可以满足大部分网站的需求。
+
+集成了Google Analytics分析，以及友好的Seo功能，非常适合用于创建企业网站、内容系统、个人博客，也可以用于开发企业管理类型的系统。
+<br>
+Github：https://github.com/mixcore/mix.core<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943058&idx=1&sn=fa547079d759cf97e25d17c841e97e07&chksm=b1bb144786cc9d51d4c1fb317a52b24532ae6a915be5aefc83397b43ce1aa549178be41b5f6f&token=2098023827&lang=zh_CN#rd)
+
+**151、一个可将执行文件打包成Windows服务的.Net开源工具（winsw）**：winsw一个基于.Net开发的开源项目，可以帮助开发人员在 Windows 平台上，将可执行的软件打包、创建和管理服务。
+<br>
+Github：https://github.com/winsw/winsw<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943037&idx=1&sn=6b15ab4e01469b0bcc4f41aaec8b8a16&chksm=b1bb17a886cc9ebe6ac195882bc425cbc721b750990e442f65316f50243dab403cee184574c3&token=2098023827&lang=zh_CN#rd)
+
+**150、一个.Net开源的协作办公套件，包括文档、表格、演示文稿和表单（CommunityServer）**：一个开源的办公套件，包括文档、表格、演示文稿和表单等应用程序。
+
+可以很好低与微软Office兼容，允许多人实时在线对同一个文档进行协作编辑，并且支持Windows、Liunx、macOS、Android、iOS系统，方便团队移动办公协作。
+<br>
+Github：https://github.com/ONLYOFFICE/CommunityServer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943027&idx=1&sn=265448db999cf002e35a0d6d1e667228&chksm=b1bb17a686cc9eb0035136b1648b3348f078d035ca49fb4236d058ad86e630d5c51cbed9de6e&token=2098023827&lang=zh_CN#rd)
+
+**149、一个用C#开发的记事本Notepads开源编辑器（Notepads）**：这是一个国人开发的，采用Fluent Design风格，支持Markdown语法及其预览，可以用于替代Windows自带记事本功能。
+
+虽然它没有Nodepad++、VS Code、Sublime 功能那么强大，但是替换用于替代技术还是不错的。
+<br>
+Github：https://github.com/0x7c13/Notepads<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943017&idx=1&sn=da75058fca6a2acaf503af05861f0dc4&chksm=b1bb17bc86cc9eaa1e2d18d0e9520a251a32e77be3ee72eb02ded44aebab5a5647cd5a654bd4&token=2098023827&lang=zh_CN#rd)
+
+
+**148、适用于REST API、支持异步HTTP客户端开源.Net库（FluentHttpClient）**：一个针对REST API、轻量级的、基于HTTP的.NET库，提供一种简单、灵活和可扩展的方式来进行Web请求。
+<br>
+Github：https://github.com/Pathoschild/FluentHttpClient<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943009&idx=1&sn=43f793373891083e4b5aab03b139918e&chksm=b1bb17b486cc9ea2bc626bb30a6822be031de3cd0845f17d2171eec5040c00fdaee6647b08b6&token=2098023827&lang=zh_CN#rd)
+
+**147、基于.Net Core开发的GraphQL开源项目（server）**：一个开源的GraphQL服务器实现，它允许你在ASP.NET Core应用程序中轻松地构建GraphQL服务器。这个库提供了一种简单的方法来创建GraphQL服务，同时支持GraphQL SDL语法。
+<br>
+Github：https://github.com/graphql-dotnet/server<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942990&idx=1&sn=0a1cc97d052df62ea8e95c3e27e20992&chksm=b1bb179b86cc9e8de96ab11abd550026284cadef1ca36273438673cb8f40ca2869cf5139cf00&token=2098023827&lang=zh_CN#rd)
 
 **146、一个.Net开源的关系管理系统（Rock）**：基于Asp.net Web 应用程序，功能模块有：人员管理、活动管理、财务订单管理、报告功能等。
 
