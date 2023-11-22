@@ -28,6 +28,68 @@
 （排名不分先后）<br>
 
 
+**168、BootstrapBlazor企业级组件库（BootstrapBlazor）**：是一个用于构建现代Web应用程序的开源框架，它基于Blazor框架，采用Bootstrap的UI样式。Blazor框架允许使用C#代替JavaScript来创建丰富的交互式UI，并将UI呈现为HTML和CSS，支持在众多浏览器中运行，包括移动浏览器。
+<br>
+Github：https://github.com/dotnetcore/BootstrapBlazor<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943434&idx=1&sn=01ed3e3404bb30d27b98587c2d2df16d&chksm=b1bb15df86cc9cc9425a746f3192a209f9e272c28da4227756865876ec977a2499fc060b8990&token=870287920&lang=zh_CN#rd)
+
+
+**167、任务栏上的超萌小猫，实时显示CPU占用率，有趣.Net开源工具（RunCat_for_windows）**：一款基于.NET 6.0运行环境的开源小工具，通过它，用户可以直观地查看CPU的使用情况，它会根据 CPU 负载快速或慢速运行。CPU负载越高，小猫则跑的越快，反之亦然 。
+可以右键图标，进行切换动物、主题设置等。
+这款小工具体积非常小，只有数百K，并且完全绿色无后台，用户可以放心使用。同时，它也是一款完全由开源社区驱动的小工具，体现了开源精神。
+<br>
+Github：https://github.com/Kyome22/RunCat_for_windows<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943376&idx=1&sn=8c646496e9da1d65ac1a835c857bdda3&chksm=b1bb150586cc9c1378add5fead9885dc15cb65c34489736f395115e9259aaf5719ae217fb89b&token=870287920&lang=zh_CN#rd)
+
+
+**166、一个美观且功能丰富的 .NET 控制台应用程序开源库（Spectre.Console）**：是一个开源的 .NET 库，用于创建美观、功能丰富的控制台（命令行）应用程序。它提供了一组易于使用的 API，可以帮助开发人员快速构建具有吸引力的控制台界面。
+<br>
+Github：https://github.com/spectreconsole/spectre.console<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943359&idx=1&sn=690f0fed0967d18a8ac125aae0f4595b&chksm=b1bb156a86cc9c7c0b7aee35f6e45d4b4f755b29236cc04b537d70088d4d4cb86b00bcd44116&token=870287920&lang=zh_CN#rd)
+
+
+**165、基于C#开发的，支持多平台二维图表开源编辑器（Core2D）**：是一个支持跨平台、多平台的应用程序，内置wyswig矢量图形编辑器，可用于数据驱动生成二维图。
+
+1、wyswig矢量图形编辑器：内置了一个强大的图形编辑器，它允许用户将数据绑定到形状，这使得图表制作变得非常灵活和易于操作。
+
+2、跨文档数据共享：支持在多个文档之间共享数据，这使得用户可以轻松地在不同的图表之间共享数据，从而确保数据的一致性和准确性。
+
+3、图层编辑：支持图层编辑，用户可以将不同的元素（如文本、形状、图像等）放置在不同的图层上，并对每个图层进行独立的编辑和操作，这使得编辑过程更加直观和高效。
+
+4、文件格式：支持将文档导出为多种流行的文件格式，例如pdf、位图和dxf。这使得用户可以轻松地将图表导出为所需的文件格式，以满足不同的需求和应用场景。
+
+5、C#脚本：支持使用C#脚本自动执行绘图和处理。这使得用户可以使用脚本来实现更复杂的数据处理和图形生成，进一步扩展了Core2D的功能和应用范围。
+
+6、平台：支持Win7+、Liunx、macOS。
+<br>
+Github：https://github.com/wieslawsoltes/Core2D<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943306&idx=1&sn=de4b80d582bdbb13a3b300aaa9138fc4&chksm=b1bb155f86cc9c49fd3f9676791351d244f6c74e6f320c31b354324b2f3ae6b817fd6063b10f&token=870287920&lang=zh_CN#rd)
+
+
+**164、一个动图图解算法的教程，让你轻松入门算法！（hello-algo）**：是一个动画图解数据结构与算法入门教程，支持多种编程语言，包括 Java、C++、Python、Go、JS、TS、C#、Swift、Zig 等。该项目旨在通过生动形象的动画图解方式，帮助初学者轻松入门数据结构与算法，同时也支持一键运行源代码，方便读者在实践中了解算法工作原理和数据结构底层实现。
+<br>
+Github：https://github.com/krahets/hello-algo<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943299&idx=1&sn=276ada1b5322a01772840c30ca4cb122&chksm=b1bb155686cc9c40b983894330a3e435cb19eab4803935b00b2d6127eb0caf5b4bd1db610d21&token=870287920&lang=zh_CN#rd)
+
+
+**163、基于C#的FTP开源库，让你快速完成FTP文件传输功能，提升开发效率！（FluentFTP）**：FluentFTP是一个基于.Net开发的，可用于FTP和FTPS文件传输。该项目优化了速度，并提供简单易用的API，让开发人员可以快速地集成并满足大多数的需求。
+<br>
+Github：https://github.com/robinrodricks/FluentFTP<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943278&idx=1&sn=d68181290d18efff4b7be99dfb765bd4&chksm=b1bb14bb86cc9dadb2735047e339f15787ddafebe83f8eed6395bcb5735f6a6f3fdda0ec3c84&token=870287920&lang=zh_CN#rd)
+
+
+**162、.NET工作流框架ELSA Core（elsa-core）**：elas-core基于.Net、开源的工作流框架，其目标是使得工作流变得容易实现、可扩展和易于维护，适用于任何.NET Core应用程序，并且支持可视化设计、可以与任何特定的应用程序的数据进行交互。
+<br>
+Github：https://github.com/elsa-workflows/elsa-core<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943248&idx=1&sn=8e8624146e9466d7f61e20b7a9308aa1&chksm=b1bb148586cc9d931903878064c50e165783efd88c75a545b5fd746b579a7b8b9d15af778ddd&token=870287920&lang=zh_CN#rd)
+
+
+**161、一个面向开发人员的工具神器（DevToys）**：该工具提供了非常多实用工具，包括类型转换、编码/解码类型、格式化类型、生成类型、文本处理类型、图片处理类型7个分类的工具，该工具还采用了全新的 Windows 11 设计，支持亮 / 暗调节。
+<br>
+Github：https://github.com/veler/DevToys<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943239&idx=1&sn=a454e3544e7cc5f85665fe121254111a&chksm=b1bb149286cc9d8414e19e8a9e4f7015b03d95485067a1d285be82bc133a12c01fdae4af0224&token=870287920&lang=zh_CN#rd)
+
+
 **160、.NET开源项目PowerArgs，将命令行参数转换为.NET对象，让程序更方便！（PowerArgs）**：PowerArgs是一个开源的.NET库，用于将命令行参数转换为.NET对象，方便开发人员在程序中使用。它还额外提供很多功能，如参数校验、自动生成使用帮助和tab补全等，适用于任何使用命令行接口的.NET应用程序。
 <br>
 Github：https://github.com/adamabdelhamed/PowerArgs<br>
