@@ -6,7 +6,7 @@
 
 <img src="https://gitee.com/bianchenglequ/NetCodeTop/raw/master/gzh.jpg" height="150">
 
-🔥我正在星球编写教程，欢迎加入！
+🔥[C#资料与电子书](https://caiyun.139.com/m/i?145CFL4bVdQL7) 提取码: TEyc
 
 👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942430&idx=1&sn=3a5b4a42761d64598d28c8d97041f5df&chksm=b1bb19cb86cc90dde764143f9f140b4b41ad2c56692dc0719f392f2833bde342ead866d60d6a&scene=21#wechat_redirect)
 
