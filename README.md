@@ -27,12 +27,91 @@
 =
 （排名不分先后）<br>
 
+**180、一个PDF文档生成器.Net库(QuestPDF)**:一个PDF文档生成器.Net开源库，提供了一个布局引擎，对分页功能完美的支持。
+<br>
+Github：https://github.com/QuestPDF/QuestPDF<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943687&idx=1&sn=73dfb587ae553b8749f2a3f9ecdd4954&chksm=b1bb12d286cc9bc4fd069397ea077142ef00e1162ac981681ed7cad2d04e6635f2b54123e50d&token=1667991119&lang=zh_CN#rd)
+
+**179、一个纯.Net开发的JavaScript执行引擎(jurassic)**:一个开源的托管JavaScript执行引擎，使用MS-PL授权协议。它的目标是成为.NET平台上功能最强，最为标准的JavaScript引擎。
+<br>
+Github：https://github.com/paulbartrum/jurassic<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943677&idx=1&sn=64fcb25cf9ac390807db05180069a1c2&chksm=b1bb122886cc9b3e2b7a0d92184c76305b9611851620dfcb05049df7a3fcd0e42b8275278d0f&token=1667991119&lang=zh_CN#rd)
+
+**178、一个监控C#方法运行耗时开源库(MethodTimer)**:一个轻量级.Net库，用于对.NET应用程序中的方法执行时间进行测量和分析，可以轻松集成到现有的.NET应用程序中。
+
+提供了高精度的计时功能，可以准确地测量方法的执行时间，同时运行自定义标签，便于更好的识别方法。
+<br>
+Github：https://github.com/Fody/MethodTimer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943672&idx=1&sn=bde4d22ac1f2e32f482f24be4f098576&chksm=b1bb122d86cc9b3bc4d19ec73e1b44719b9e53f649104b594030ede6965511e8c0eeeff0e98a&token=1667991119&lang=zh_CN#rd)
+
+**177、一个常用的.Net集合开源工具库，包含CSV、PDF、Excel等(Sylvan)**:该项目主要分为5个部分：
+
+1、常用：编码转换、常用枚举变量、多线程、列表排序等；
+
+2、数据库：针对ADO.net封装的常用操作；
+
+3、CSV：读取和写入CSV库；
+
+4、Excel：读取和写入Excel库，格式支持.xlsx、.xlsb 和 .xls，支持转换CSV格式；
+
+5、XBase：支持快速读取XBase数据。
+
+此项目提供的功能，都比较简单，适合小型项目使用。
+<br>
+Github：https://github.com/MarkPflug/Sylvan<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943656&idx=1&sn=7ed3abee0ad99f6ac963b028a1a14c99&chksm=b1bb123d86cc9b2b8c7bcb915900ef640be8b3335318171182290e9d285b2b2f61fa78113b2d&token=1667991119&lang=zh_CN#rd)
+
+**176、eShop跟随.Net8迎来重磅升级，微服务架构与GPT的完美结合！(eShop)**:eShop采用的是微服务架构，分为核心、身份授权、订单、目录、购物车微服务。
+数据库采用PostgreSQL、缓存采用Redis，还引入了最新发布的Aspire系统。
+<br>
+Github：开源项目地址：https://github.com/dotnet/eShophttps://github.com/dotnet/eShop<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943636&idx=1&sn=398fd6ed65514a09c3ca6fb8273bc12e&chksm=b1bb120186cc9b177207c7ff309fe3d7ef9513b272516d2254a383792299626f4591d18e8d24&token=1667991119&lang=zh_CN#rd)
+
+**175、一个用于操作Excel文件的.NET开源库(ClosedXML)**:一个.NET第三方开源库，支持读取、操作和写入Excel 2007+ (.xlsx， .xlsm)文件，是基于OpenXML封装的，让开发人员无需了解OpenXML API底层API，便于运用于项目开发。
+<br>
+Github：https://github.com/ClosedXML/ClosedXML<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943615&idx=1&sn=f8663608faa1afea832fb7e2dc0dae54&chksm=b1bb126a86cc9b7c1346790b1c45d29b9efaacea607fa2a7ffc6dfff0d3413dfd8bc5764f170&token=1667991119&lang=zh_CN#rd)
+
+**174、基于C#开发的任天堂Switch开源模拟器(Ryujinx)**:一个开源的任天堂 Switch 模拟器，可以在 PC 上模拟运行 Switch 游戏。采用C#开发，基于 .NET Core技术框架，可跨平台运行在 Windows、Linux 和 macOS 等操作系统上。
+
+该项目的特点是提供卓越的准确性和性能、用户友好的界面和一致的构建，已经超过约 4,050 个游戏上进行了测试，3400个确认可运行。
+<br>
+Github：https://github.com/Ryujinx/Ryujinx<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943600&idx=1&sn=5a805be94a3cebdc0579a07c5b2deac7&chksm=b1bb126586cc9b738f67fa0cb6f7a6c4c5e34693ae57419cd56aedb387931788c707a4bf2733&token=1667991119&lang=zh_CN#rd)
+
+**173、一款基于.Net开发、开源、支持多平台云存储文件管理器(Camelotia)**:一款云存储文件管理器，基于.Net UI框架和ReactiveUI框架开发的，目前支持的平台有：Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP 和本地文件系统。
+可运行的平台：Windows、Linux、MacOS、XBox、Surface Hub 和 HoloLens 。
+该项目涉及的技术栈比较多，比如：MVVM框架、FTP、自动化构建、单元测试、跨平台移动UI框架，作为学习项目还是不错的选择。
+<br>
+Github：https://github.com/reactiveui/Camelotia<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943591&idx=1&sn=d53bd75592634867b833b96378047408&chksm=b1bb127286cc9b64e973f61ac41c2f57b022b1b1dea3541c1adb5bcd762eb2f9db95fa52d9d6&token=1667991119&lang=zh_CN#rd)
+
+**172、一个高性能类型安全的.NET枚举实用开源库（Enums.NET）**：一个.NET枚举实用程序库，专注于为枚举提供丰富的操作方法。它支持.NET Framework和.Net Core。它主要优点表现在类型安全、高性能、丰富的操作方法和易于使用等方面，为开发者提供了更加便捷和高效的枚举类型操作方式。
+<br>
+Github：https://github.com/TylerBrinkley/Enums.NET<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943574&idx=1&sn=f2706cef072739f4a5c4a08f4a455bde&chksm=b1bb124386cc9b55db433d03abd17bedc9f517c53099cc1d83ec1575358c04ec20046fb5ed08&token=1667991119&lang=zh_CN#rd)
+
+**171、私有化部署LLama推理大模型（LLamaSharp）**：LLama是Meta发布的一个免费开源的大模型，是一个有着上百亿数量级参数的大语言模型，支持CPU和GPU两种方式。
+而LLamaSharp就是针对llama.cpp封装的C#版本，让方便我们基于C#开发应用，让我们不需要自己编译llama.cpp。它的性能接近llama.cpp，支持Windows、Linux和MAC。
+<br>
+Github：https://github.com/SciSharp/LLamaSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943547&idx=1&sn=52e3a6bccba4b2ad3d5d1d94c24f724e&chksm=b1bb15ae86cc9cb81fa30b92c12ce17713b49985bca29840a22e8a072523aeca908e8ec95526&token=1667991119&lang=zh_CN#rd)
+
+**170、.NET开发者带来的3D视觉盛宴（helix-toolkit）**：一个开源的3D库，主要用于WPF应用程序。它有许多优点，例如提供各种各样的功能，包括基于MVVM的3D模型编辑器、可编程的着色器、3D网格渲染、相机控制和3D基元等。此外，它还支持各种3D模型导入器和导出器的Assimp.Net组件，方便在项目中使用不同格式的3D模型。
+然而，Helix Toolkit也有一些缺点。首先，它基于SharpDX（directx11）实现，这可能会限制其在某些平台上的性能。其次，虽然它提供了许多功能，但对于一些特定领域的应用程序，可能还需要进行定制开发。
+<br>
+Github：https://github.com/helix-toolkit/helix-toolkit<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943492&idx=1&sn=c792d890f57f5c41ae05daec5bbc3df3&chksm=b1bb159186cc9c87017e9dc44626ee1cc62410d1fb16372828ed5f0256b9b3d4be182dfa3561&token=1667991119&lang=zh_CN#rd)
+
+**169、.NET开源API网关提供路由管理、服务发现、鉴权限流等功能（Ocelot）**：一个用.NET Core实现并开源的API网关，它功能强大，包括了：路由、请求聚合、服务发现、认证、鉴权、限流熔断、并内置了负载均衡器与Service Fabric、Consul集成。
+<br>
+Github：https://github.com/ThreeMammals/Ocelot<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943460&idx=1&sn=0e32322d4ee95d64a1259f2944461330&chksm=b1bb15f186cc9ce7a32252d5271d50ff18f1febb6d2a8bd36e34b9d7192aeb07e3161a27c981&token=1667991119&lang=zh_CN#rd)
 
 **168、BootstrapBlazor企业级组件库（BootstrapBlazor）**：是一个用于构建现代Web应用程序的开源框架，它基于Blazor框架，采用Bootstrap的UI样式。Blazor框架允许使用C#代替JavaScript来创建丰富的交互式UI，并将UI呈现为HTML和CSS，支持在众多浏览器中运行，包括移动浏览器。
 <br>
 Github：https://github.com/dotnetcore/BootstrapBlazor<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943434&idx=1&sn=01ed3e3404bb30d27b98587c2d2df16d&chksm=b1bb15df86cc9cc9425a746f3192a209f9e272c28da4227756865876ec977a2499fc060b8990&token=870287920&lang=zh_CN#rd)
-
 
 **167、任务栏上的超萌小猫，实时显示CPU占用率，有趣.Net开源工具（RunCat_for_windows）**：一款基于.NET 6.0运行环境的开源小工具，通过它，用户可以直观地查看CPU的使用情况，它会根据 CPU 负载快速或慢速运行。CPU负载越高，小猫则跑的越快，反之亦然 。
 可以右键图标，进行切换动物、主题设置等。
