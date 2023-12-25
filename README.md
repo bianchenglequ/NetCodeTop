@@ -10,6 +10,8 @@
 
 👉[马上领取《.Net Core从零学习搭建权限管理系统教程》](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449942430&idx=1&sn=3a5b4a42761d64598d28c8d97041f5df&chksm=b1bb19cb86cc90dde764143f9f140b4b41ad2c56692dc0719f392f2833bde342ead866d60d6a&scene=21#wechat_redirect)
 
+🔥[欢迎关注我的开源项，基于大模型文档对话](https://github.com/bianchenglequ/chat2KnowL)，正在开发中，欢迎先关注起来！
+
 技术交流
 =
 也可扫下面二维码，加我个人微信，备注：**加群**，拉你进技术交流群，与更多程序员，交流开源项目和编程知识。
@@ -26,6 +28,48 @@
 项目列表
 =
 （排名不分先后）<br>
+
+**186、微软官方出品：GPT大模型编排工具，支持C#、Python等多个语言版本(semantic-kernel)**:Semantic Kernel是一个轻量级的SDK，最基本的功能就是帮我们完成与OpenAI、Azure OpenAI和Hugging Face大模型的API的对接，并且支持C#、Python、Java版本。
+<br>
+Github：https://github.com/microsoft/semantic-kernel<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943826&idx=1&sn=cc14bd7199c5b2f942ec0f8f4efc403b&chksm=b1bb134786cc9a51d70c1f78cd3f1ceaa33300e02f1acc76fcbf7e904a7468172293b67749dc&token=1047654054&lang=zh_CN#rd)
+
+**185、CefSharp：网页自动化和爬虫神器(CefSharp)**:CefSharp是一个基于Chromium Embedded Framework（CEF）的.NET开源项目。
+
+可以让开发人员非常方便使用C#与浏览器交互，可以操作Html、Css、执行JavaScript代码等方式来处理页面的内容。
+
+支持多线程，方便开发人员创建多个浏览器对象，并可以通过设定CookieContainer和UserAgent来模拟不同用户的操作，提升网页数据采集和速度。
+<br>
+Github：https://github.com/cefsharp/CefSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943820&idx=1&sn=a81fcf93fe6453222be16ec904637c8d&chksm=b1bb135986cc9a4f8ae44c6b33c11c0c691b7546b896824bf7a7fec2cbe3bfd8d57544fc94dc&token=1047654054&lang=zh_CN#rd)
+
+**184、一个易用的.Net测试模拟库(FakeItEasy)**:FakeItEasy是一个.NET平台的简单mocking开源库，它提供了一个简单的方式来模拟对象和创建伪造对象，方便我们在单元测试中更容易地创建模拟对象。
+
+该库使用非常简单，方便开发者模拟各种情况，来检查被测试的代码是否能够正确。
+<br>
+Github：https://github.com/FakeItEasy/FakeItEasy<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943807&idx=1&sn=a438f4a41ff0450780fbd5597a97f00f&chksm=b1bb12aa86cc9bbc23cecf0186a8718a5749b11838eaa79f547b25af3be3f2b12d444cc51b74&token=1047654054&lang=zh_CN#rd)
+
+**183、搭建一个私有NuGet服务器(BaGet)**:BaGet是一个开源轻量级的NuGet服务器项目，基于.Net Core开发的，支持跨平台部署，可以快速部署和使用，适用于多种场景。
+<br>
+Github：git clone https://github.com/loic-sharma/BaGet.githttps://github.com/loic-sharma/BaGet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943756&idx=1&sn=01cbb013ad0937d4b054e3da31db2972&chksm=b1bb129986cc9b8f30024f2ea0b2a0e0d64353b3603b95e2749e0ea7a3b5c14b62cc7ab2e58e&token=1047654054&lang=zh_CN#rd)
+
+**182、一个支持多线程下载和断点续传.Net开源库(Downloader)**:这是一个可用于下载各种类型文件，支持多种下载方式，如队列下载、优先级队列下载、本地文件下载等。
+
+它提供了简单易用的API，方便开发者集成到自己的应用程序中。
+
+支持实时流媒体，如在下载时播放音乐。
+<br>
+Github：https://github.com/bezzad/Downloader<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943727&idx=1&sn=38604421acf135a30d5392be75d2717b&chksm=b1bb12fa86cc9becc65f2e70e9f2e600a876dfd8677c8dc13503395d9351dbb1d30b133bd723&token=1047654054&lang=zh_CN#rd)
+
+**181、一个浏览器自动化操作的.Net开源库(puppeteer-sharp)**:这是一个基于 Google 开源的 Node.js 库 Puppeteer 的 .NET 开源库，方便开发人员使用无头 Web 浏览器抓取 Web、检索 JavaScript 呈现的 HTML，以及与 UI 元素交互等功能。
+
+比如可以用来抓取网页、生成页面 PDF 或者图片、网页截屏，以及进行自动化测试等。
+<br>
+Github：https://github.com/hardkoded/puppeteer-sharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943723&idx=1&sn=ef854c65c88d80f016c96a708fcf4fd6&chksm=b1bb12fe86cc9be863674daa4cac4d062bb3eb8d34cc56458a848378514f84ed993776d72c58&token=1047654054&lang=zh_CN#rd)
 
 **180、一个PDF文档生成器.Net库(QuestPDF)**:一个PDF文档生成器.Net开源库，提供了一个布局引擎，对分页功能完美的支持。
 <br>
