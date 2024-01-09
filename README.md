@@ -29,6 +29,34 @@
 =
 （排名不分先后）<br>
 
+**190、一个让你轻松搭建漫画、小说网站的.Net开源项目(Kavita)**:基于.Net开发的开源项目，该项目的核心功能是可以上传漫画至服务器，并可以在浏览器查看和管理漫画。
+
+该项目支持灵活的阅读分组和管理、强大的用户管理功能、强大的网页阅读器功能、本地化支持、可定制的仪表板和侧边栏。
+
+该项目功能完整，方便开发人员快速搭建一个漫画网站，或者进行二次开发。
+
+该项目基于ASP.NET Core框架构建，支持通过Docker容器来运行。
+<br>
+Github：https://github.com/Kareadita/Kavita<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944015&idx=1&sn=fb977461ea4955d0dc3a037e00648429&chksm=b1bb139a86cc9a8ca7d2f72a03d1beba74fe41a9f192a42b1bb3dcbef77f6a0fb4d0481b2f91&token=184221322&lang=zh_CN#rd)
+
+**189、一个让StableDiffusion更稳定、更易用的Github开源项目(StabilityMatrix)**:基于.Net开发的开源项目，核心功能是为Stable Diffusion提供易于使用的软件包管理器。
+
+它支持Stable Diffusion的Web UI软件包的一键安装和更新，并且提供了简单易用的用户界面，同时内嵌Git、Python等依赖，大大简化安装与配置的过程。
+<br>
+Github：https://github.com/LykosAI/StabilityMatrix<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943958&idx=1&sn=e6bb8ba7615828e7b19be0ff7e2badbb&chksm=b1bb13c386cc9ad551aa907633551c11f8d4adf21921656ae55e55e83aa63df125279b3ffe41&token=184221322&lang=zh_CN#rd)
+
+**188、DotNetZip：.NET中的强大ZIP文件处理库(DotNetZip)**:一个开源的.Net库，用于处理ZIP文件格式。该类库提供了丰富的ZIP文件操作功能，包括读取、写入、修改、加密等。是一个强大且灵活的库，使用非常方便。
+<br>
+Github：https://github.com/DinoChiesa/DotNetZiphttps://github.com/DinoChiesa/DotNetZip<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943897&idx=1&sn=c4eb62b80e2a5eaa6b78a170e655b288&chksm=b1bb130c86cc9a1a35801d1c4cc404f0852bd804a56042823f8d006816ac01ad72da2cba4af3&token=184221322&lang=zh_CN#rd)
+
+**187、Quasar：轻量级、高效的.NET远程管理工具(Quasar)**:基于 C#开发的、开源的快速、轻量级远程管理工具，可用于服务器管理工作以及员工监控，是一个高稳定性和易于使用的的远程管理工具。
+<br>
+Github：https://github.com/quasar/Quasar<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449943893&idx=1&sn=500a9f3463f2e1088b340121850ca245&chksm=b1bb130086cc9a1640994fe285cf954b25965aa144ad78717b3983496655fc5cf1e922ba88e7&token=184221322&lang=zh_CN#rd)
+
 **186、微软官方出品：GPT大模型编排工具，支持C#、Python等多个语言版本(semantic-kernel)**:Semantic Kernel是一个轻量级的SDK，最基本的功能就是帮我们完成与OpenAI、Azure OpenAI和Hugging Face大模型的API的对接，并且支持C#、Python、Java版本。
 <br>
 Github：https://github.com/microsoft/semantic-kernel<br>
