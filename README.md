@@ -29,6 +29,71 @@
 =
 （排名不分先后）<br>
 
+**198、一个PDF处理利器的.Net开源项目(PdfPig)**:PdfPig是一个基于.NET开发的开源项目，是一个强大PDF处理库，核心功能有：
+
+1、支持提取PDF文档的文字的位置和大小，从而能够获取文档的文本；
+
+2、支持从PDF文档搜索图片；
+
+3、支持读取PDF注释、PDF表单、嵌入的文档和超链接；
+
+4、支持对PDF文档元数据的访问；
+
+5、支持PDF文件创建，以及PDF写入；
+
+6、支持通过密码访问加密文件的内容；
+
+7、文档布局分析：还提供了文档布局分析工具，如Recursive XY Cut、Document Spectrum和Nearest Neighbour算法等。它还支持将页面内容导出为Alto、PageXML和hOcr格式；
+
+8、不直接支持表格，但可以使用Tabula Sharp或Camelot Sharp进行操作。
+<br>
+Github：https://github.com/UglyToad/PdfPig<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944122&idx=1&sn=4b43c79ac59e863f0c4ce3826780b09a&chksm=b1bb106f86cc9979b062a93e265087d290a04f05de1f18d3cb3c1285230f3a546dca166de0fe&token=1972277246&lang=zh_CN#rd)
+
+**197、一个非常强大的可视化.NET开源任务调度框架(Hangfire)**:Hangfire是一个开源的.NET任务调度框架，目前1.6+版本已支持.NET Core，可以用在ASP.NET应用执行多种类型的后台任务，无需额外开发后台服务。
+
+同时Hangfire内置了集成化控制台，在上面可以清晰看到作业调度的情况，并且支持持久化的存储，支持有 Redis、SQL Server、SQL Azure 和 MSMQ。
+<br>
+Github：https://github.com/HangfireIO/Hangfire<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944110&idx=1&sn=349ccbcc73093d7908105d305fd75cbf&chksm=b1bb107b86cc996d3df7ea37097257495cc6618ffa1fc99cf1e4c4d48e4ca5980c6cfe2451f8&token=1972277246&lang=zh_CN#rd)
+
+**196、一个具有强大PDF处理能力的.Net开源项目(itext7-dotnet)**:itext7-dotnet是一个功能强大的库，专门为.Net设计，用于创建、编辑和操作PDF文件，可以帮我们快速、高效得处理PDF文件。
+
+该项目支持创建各种类型的PDF文件，包含基本文本文档、表格、图像、连接等。还具有强大的编辑功能，比如调整页面布局、添加水印等。
+
+此外还支持加密功能、国际化等特性、支持PDF/A、PDF/UA等。
+<br>
+Github：https://github.com/itext/itext7-dotnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944095&idx=1&sn=1306118adec595b6377dd0ae38d1975b&chksm=b1bb104a86cc995c4d7590e8aed1c7c88702acaf386138e26899d445b92642b90893db231403&token=1972277246&lang=zh_CN#rd)
+
+**195、一个支持将Html页面转为PDF的.Net开源项目(DinkToPdf)**:这是一个基于.Net开发的开源项目，本质是用 Webkit 引擎将 HTML 页面转换为 PDF，可以用在控制台、 Web 应用程序和 Web API中。
+<br>
+Github：https://github.com/rdvojmoc/DinkToPdf<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944078&idx=2&sn=e14518c3ea9779968073d4d50aba5a2d&chksm=b1bb105b86cc994db8c7a9f3857d5f860324f05e6901d7f65f3cfadb5199e2bdf6faf3b7263a&token=1972277246&lang=zh_CN#rd)
+
+**194、用C#开发Excel插件的强大开源工具(ExcelDna)**:Excel-DNA是一个.Net开源项目，为开发者提供了一种便利的方法，可以将.Net代码与Excel集成，能够轻松的为Excel创建自定义函数、图表、表单等，一方面不仅可以利用.Net强大的库，另外一方面还可以与外部数据、程序等连接交互。
+
+利用该项目我们可以用来，开发一些数据分析与处理、数据自动化等一些场景。
+<br>
+Github：https://github.com/Excel-DNA/ExcelDna<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944070&idx=1&sn=516e8cd7b495e7475b42b53012deed30&chksm=b1bb105386cc99456c9b39d8ec84e05993ba905b362b399418779be1ce1d4a6aa4a2840b7531&token=1972277246&lang=zh_CN#rd)
+
+**193、一个功能强大、操作易用的屏幕录制.Net开源工具(Captura)**:该工具不仅支持全屏录制，还提供区域录制、游戏录制和摄像头录制等多种模式。不管是录制软件操作、游戏、直播、网络教学、课件制作还是在线视频，都可以满足你的需求。
+此外该工具还可以录制多种屏幕内容，如鼠标点击和键盘的输入等。
+<br>
+Github：https://github.com/MathewSachin/Captura<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944058&idx=1&sn=7ce5ad3fe64b2a5beb4f72b2f31db7c1&chksm=b1bb13af86cc9ab9340093f748847737f1f1b50f5c4f8fb61c07ff1859ce948672774d19c057&token=1972277246&lang=zh_CN#rd)
+
+**192、推荐一个Star4.1K的.Net开源CMS项目(Umbraco-CMS)**:Umbraco CMS开发者团队是来源于丹麦，经过多年的发展，已经成为全球比较知名并被广泛使用的CMS，它以友好的用户体验和高度可定制性而出名，非常适合用于开发各种类型网站项目，比如开发企业网站、电子商务系统、企业管理系统等。
+<br>
+Github：https://github.com/umbraco/Umbraco-CMS<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944052&idx=1&sn=5f4fe2a710023a10d1a43c5142c65969&chksm=b1bb13a186cc9ab7de30980b7551ddcbd39ac4bb56b431ece303d2f32b540d5eeefe193d65c6&token=1972277246&lang=zh_CN#rd)
+
+**191、推荐一个Star1.3K报表.Net开源项目(Seal-Report)**:Seal-Report是一个基于.NET框架的开源项目，提供了简单、直观的报表和报告功能，具有报表设计器，可减少复杂的配置，无需编程知识也可以使用。采用该项目，就可以为企业快速提供高质量的报表，从而提升工作效率和决策速度。
+<br>
+Github：https://github.com/ariacom/Seal-Report<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944040&idx=1&sn=5574476f583d6b5746eb952e0e6c86e1&chksm=b1bb13bd86cc9aaba8fdc4315c2946ff47c07f6d97ceca913be61ed13ab8c65fecd58011ded0&token=1972277246&lang=zh_CN#rd)
+
 **190、一个让你轻松搭建漫画、小说网站的.Net开源项目(Kavita)**:基于.Net开发的开源项目，该项目的核心功能是可以上传漫画至服务器，并可以在浏览器查看和管理漫画。
 
 该项目支持灵活的阅读分组和管理、强大的用户管理功能、强大的网页阅读器功能、本地化支持、可定制的仪表板和侧边栏。
