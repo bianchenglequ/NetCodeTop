@@ -29,6 +29,12 @@
 =
 （排名不分先后）<br>
 
+**199、PowerToys：又一个提升工作效率神器，微软官方出品，采用C#开发！(PowerToys)**:该工具是来自微软官方出品的效率工具集，适用于Windows 10+操作系统。它包含了各种功能，旨在帮助用户更好的管理、自定义和优化Windows系统，以便提升工作效率。
+提供了常规工具有颜色选取器、全窗口管理器、键盘快捷键管理器、更好的Alt+Tab操作、电池追踪器、批量重命名文件等。
+<br>
+Github：https://github.com/microsoft/PowerToys<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944146&idx=1&sn=56f46722611972ba7a47d3cec79462a7&chksm=b1bb100786cc99116e603f2858ae88427f3bf7657ed8e6d20232b4adf7d39635a625437a1382&token=1972277246&lang=zh_CN#rd)
+
 **198、一个PDF处理利器的.Net开源项目(PdfPig)**:PdfPig是一个基于.NET开发的开源项目，是一个强大PDF处理库，核心功能有：
 
 1、支持提取PDF文档的文字的位置和大小，从而能够获取文档的文本；
