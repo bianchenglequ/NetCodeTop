@@ -29,6 +29,26 @@
 =
 （排名不分先后）<br>
 
+**204、一款让Everything更加如虎添翼的开源辅助插件！(EverythingToolbar)**:一款开源的辅助增强插件，基于C#开发的，可让Everything与Windows桌面任务栏完美结合，支持Windows10 、Windows 11。
+<br>
+Github：https://github.com/srwi/EverythingToolbar<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944283&idx=1&sn=5c62f2f62f714b5517c8486216833630&chksm=b1bb108e86cc999812b91778de5da2b3c0f841cdd1554793d37207789e1d381092975b7d586d&token=339260667&lang=zh_CN#rd)
+
+**203、Optimizer：基于.Net开发的、提升Windows系统性能的终极开源工具(optimizer)**:一个面向Windows系统的优化工具，旨在提升计算机性能、加强隐私和安全。
+<br>
+Github：https://github.com/hellzerg/optimizer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944257&idx=1&sn=aa5e9dfb1a84c3ef10f81de6f531d0f2&chksm=b1bb109486cc99822c7a4d463db546ef99f14671b493fbb8a6627b3f582c9969d53c998d3927&token=339260667&lang=zh_CN#rd)
+
+**202、盘点5个基于SkiaSharp开发的.Net开源图形项目(ImageWizard)**:基于这个图形库，我们可以做的东西很多，比如可以开发绘图工具、制作报表、生成图像、绘制用户界面等，只要放飞我们的想象力，可以用来做很多东西。
+<br>
+Github：https://github.com/toptensoftware/RichTextKithttps://github.com/mattleibow/SkiaSharpFiddlehttps://github.com/guitarrapc/SkiaSharp.QrCodehttps://github.com/NdubuisiJr/skia-charthttps://github.com/usercode/ImageWizard<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944206&idx=1&sn=9c4395362512c0fd342b57a746d00b0a&chksm=b1bb10db86cc99cdaab42d8126fa336d93aa675903eb8b9f983d14230bcaa5ec57f6de24252f&token=339260667&lang=zh_CN#rd)
+
+**201、Dev-Home：又一个开发人员控制中心神器，微软官方出品!(devhome)**:核心有两个功能：系统监控小组件和Gtihub扩展小组件。
+<br>
+Github：https://github.com/microsoft/devhome//github.com/microsoft/devhome<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944186&idx=1&sn=24590935043b760785a88d873cad8cd9&chksm=b1bb102f86cc99391f74510ab37e1e96c97c7d08ba9436fa447cbfc689a0594326498c9fff49&token=339260667&lang=zh_CN#rd)
+
 **200、SkiaSharp：.NET强大而灵活的跨平台图形库(SkiaSharp)**:SkiaSharp是基于Google的Skia图形库的.NET封装，是一个用于2D图像绘制的开源库，无论桌面应用程序、移动应用还是Web应用，都可以使用。
 
 .Net开发人员可以利用这个强大而灵活的跨平台图形库，来实现高质量的图形绘制和渲染。
