@@ -29,6 +29,57 @@
 =
 （排名不分先后）<br>
 
+**212、一个支持提取各种图像和视频元数据的.Net开源库(metadata-extractor-dotnet)**:支持从各种图像和视频文件中提取元数据。比如拍摄日期、相机型号、曝光设置、地理位置等。
+<br>
+Github：https://github.com/drewnoakes/metadata-extractor-dotnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944497&idx=1&sn=aba1d9840160721a7d664d6bffea4e7b&chksm=b1bb11e486cc98f2fb234714462d731421ee3c3e02467dd286170df7eb41f9dd4a4525a6a4cf&token=695847979&lang=zh_CN#rd)
+
+**211、一个可操作PPT的.Net开源库(ShapeCrawlergithub)**:ShapeCrawler 是一个专为处理 PowerPoint 演示文稿而设计的 .NET 库。这个库为开发者提供了一组简单易用的 API，以便操作 PowerPoint (.pptx) 文件中的各种元素。
+<br>
+Github：https://github.com/ShapeCrawler/ShapeCrawlergithub<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944490&idx=1&sn=7f7affad2789e651dc63087265b0679c&chksm=b1bb11ff86cc98e9398b9a14003fd1a61b61b6fe7dbba4824977ca3214dbd7665f0c1d3ceb3c&token=695847979&lang=zh_CN#rd)
+
+**210、.NET开发者的GitHub开放平台SDK(github)**:Octokit.net是一个开源的.NET库，它是基于Github API封装的SDK，方便开发者轻松调用GitHub接口进行相关操作，如管理仓库、处理拉取请求、创建和更新问题、与GitHub Webhooks交互等。
+同时也可以通过几行代码来获取用户的详细信息，如用户名、电子邮件地址、关注者数量等。
+<br>
+Github：github<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944485&idx=1&sn=6ec9c7149fb1cc39981326325b7e2ff1&chksm=b1bb11f086cc98e601f7839f52303ab83c74cf0132b37c8e4c07dfb3c41cb32b265eeae725a4&token=695847979&lang=zh_CN#rd)
+
+**209、Translumo：基于.NET开发的开源的屏幕实时翻译工具(Translumo)**:基于.Net开发的、开源屏幕翻译器软件，它可以实时检测并翻译屏幕上所选区域中出现的文本，如视频的字幕和图片中的文字等。
+<br>
+Github：https://github.com/Danily07/Translumo<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944471&idx=1&sn=afd9390920e53b3db4dc31128eebdced&chksm=b1bb11c286cc98d457b39341fb350da8a3b32db8e068678bff01ecb001020b639d8bc708513b&token=695847979&lang=zh_CN#rd)
+
+**208、一个C#开发的大小只有8KB的贪吃蛇开源游戏！()**:一个贪吃蛇开源项目，这个项目除了实现贪吃蛇的功能外，重点是讲解如何把编译后的程序，从65MB精简为8KB。
+<br>
+Github：<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944459&idx=1&sn=004dd8b3a8be45c4ab21668c7d9fb6c9&chksm=b1bb11de86cc98c83934be9ac6a137b417160fc243d16e27959834d3f2daf68c98b69f188bbe&token=695847979&lang=zh_CN#rd)
+
+**207、一个可以查看DLL依赖关系的开源工具(Dependencies)**:该项目是基于C#开发的，用于Windows开发人员解决 dll 加载依赖问题。
+分析DLL支持3个选项：
+默认行为：ChildOnly，仅处理PE子导入，不处理其他内容。
+延迟加载处理：RecursiveOnlyOnDirectImports，不处理延迟加载的DLLs。
+完全递归分析：Recursive，进行完整的递归分析。此选项需要花费更多时间和内存。
+<br>
+Github：https://github.com/lucasg/Dependencies<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944454&idx=1&sn=f9eba5131308ffefdb34337cbd51565a&chksm=b1bb11d386cc98c51195cd99d516d347fbb103b61154b7198122adbcf96c40bf0ce26a222e8d&token=695847979&lang=zh_CN#rd)
+
+**206、一个基于C#开发的、开源的特殊字符输入法(wincompose)**:这是一个基于C#开发的开源项目，方便我们通过键盘组合键、拷贝的方式来输入特殊字符和emoji表情。
+
+该项目集成了上千个特殊字符和emoji表情，还支持自定义组合键，界面支持包括中文在内的几十种语言。
+
+该项目涉及技术：.NET Framework、Windows API、C#。
+<br>
+Github：https://github.com/samhocevar/wincompose<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944437&idx=1&sn=8036fe4a06ef9fb281c71d04507c87b9&chksm=b1bb112086cc98364d9102dd5f21a7dba2288ef1200ff2027ac0dab29e7420b2e691447ac5fc&token=695847979&lang=zh_CN#rd)
+
+**205、支持多字体、静动态的.NET图片验证码的开源项目(LazyCaptcha)**:该项目是基于SkiaSharp开发的、开源图片验证码库，支持多种字体、自定义字体、是否粗体、静态图、动态图，方便我们根据项目需求自由选择。
+
+该项目是.Net Standard 2.0开发的，支持跨平台。另外作者还创建另外一个项目，基于.Net Standard 2.0+Vue2做了一个滑动验证码开源项目。
+<br>
+Github：https://github.com/pojianbing/LazyCaptcha<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944330&idx=1&sn=89e2930cf423c8c15fb7f52e6d526212&chksm=b1bb115f86cc9849cae69417404549e4407d6185187a4dd61361e0123455ace09cde3fc55117&token=695847979&lang=zh_CN#rd)
+
 **204、一款让Everything更加如虎添翼的开源辅助插件！(EverythingToolbar)**:一款开源的辅助增强插件，基于C#开发的，可让Everything与Windows桌面任务栏完美结合，支持Windows10 、Windows 11。
 <br>
 Github：https://github.com/srwi/EverythingToolbar<br>
