@@ -29,6 +29,21 @@
 =
 （排名不分先后）<br>
 
+**215、Flurl：一个Star3.9K的链式RESTful风格HTTP开源.Net库(Flurl)**:基于.Net开发的开源库，是一个现代化的、流畅的、异步的、可测试的、可移植的URL构建器和HTTP客户端库。这个开源项目提供了强大功能，使得开发人员方便构建和处理RESTful风格HTTP请求。
+<br>
+Github：https://github.com/tmenier/Flurl<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944561&idx=1&sn=256b099930be80c6f9de8826dff90ca0&chksm=b1bb11a486cc98b23647d6b90c36c6a64b910280186972d192554b4665bc0f907290bc65ec4a&token=946303944&lang=zh_CN#rd)
+
+**214、NodaTime：一个.NET开源的强大日期和时间库(nodatime)**:一个为.NET设计的开源高级日期和时间库，它可以让开发人员更容易、更精确、更灵活的方式来处理日期、时间。
+<br>
+Github：https://github.com/nodatime/nodatime<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944556&idx=1&sn=2339766311d5f7dbb27bb931e906ce96&chksm=b1bb11b986cc98af4efa88847331fda9b1503802fddbe0421ba18dc8ca799209b4f3d8563df8&token=946303944&lang=zh_CN#rd)
+
+**213、推荐一个Dapper扩展库，使得更加轻松构建且安全的SQL查询！(DapperQueryBuilder)**:DapperQueryBuilder是扩展库，它增强了Dapper的功能，特别是关于动态SQL查询和命令的构建。它提供了字符串插值和Fluent API的操作方式，让我们构建复杂的动态查询变得更加直观和简单，并且没有SQL注入的风险。
+<br>
+Github：https://github.com/Drizin/DapperQueryBuilder<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944541&idx=1&sn=a10f1bb3dcbd32b45c81cd10ab2f5c63&chksm=b1bb118886cc989e8dc0feda9f75067f2d1943e5d0b341cc1e57bee00806ed7a4679ea1a6637&token=946303944&lang=zh_CN#rd)
+
 **212、一个支持提取各种图像和视频元数据的.Net开源库(metadata-extractor-dotnet)**:支持从各种图像和视频文件中提取元数据。比如拍摄日期、相机型号、曝光设置、地理位置等。
 <br>
 Github：https://github.com/drewnoakes/metadata-extractor-dotnet<br>
