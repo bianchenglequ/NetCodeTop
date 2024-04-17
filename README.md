@@ -29,6 +29,87 @@
 =
 （排名不分先后）<br>
 
+**230、FluentAssertions：C#单元测试断言库，让测试代码更加直观、易读！(fluentassertions)**:FluentAssertions 是一个基于 .NET 的断言库，它提供了一种链式调用的方式来编写断言语句。支持框架.NET Framework 4.7、.NET Core 2.1、.NET Core 3.0、.NET 6、.NET Standard 2.0/2.1，支持单元测试框架MSTest2、NUnit3、XUnit2、MSpec和NSpec3。
+<br>
+Github：https://github.com/fluentassertions/fluentassertions<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944819&idx=1&sn=41130bd8a00d42ab8adc1e32a7afb52a&chksm=b1bb0ea686cc87b0f8866baf2218062ccbf82db154afc1c49ac5a49a6cce1d49e086e6a3fa0c&token=458611829&lang=zh_CN#rd)
+
+**229、ImageSharp：高性能跨平台.NET开源图形库(ImageSharp)**:ImageSharp是一款完全托管的代码库，高性能、跨平台的图形库。它支持在任何支持.NET 6+的环境中安装和使用，可以运用在各种场景：设备端，云端以及嵌入式和物联网等。
+<br>
+Github：https://github.com/SixLabors/ImageSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944772&idx=1&sn=519add5c69c3f349b2da1caba8e7279c&chksm=b1bb0e9186cc8787f3ff2cb3a4edd3ee5c4cc948ae782bc64dbe531a260c8487168af2fb470e&token=458611829&lang=zh_CN#rd)
+
+**228、DateTimeExtensions：一个轻量C#的开源DateTime扩展方法库(DateTimeExtensions)**:该项目主要是为System.DateTime和System.DateTimeOffset的编写的扩展方法，包括自然日期差值的文本表示（精确和人性化四舍五入）、多个时区的节假日和工作日计算。
+<br>
+Github：https://github.com/joaomatossilva/DateTimeExtensions<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944766&idx=1&sn=38a4899d87425655f6faafdf3558d99a&chksm=b1bb0eeb86cc87fd970fc24b50c1586c54573df1a6de9b26ddd315039eb0b1c4a92ae6457ad1&token=458611829&lang=zh_CN#rd)
+
+**227、websocket-sharp：.NET平台上的WebSocket客户端与服务器开源库(websocket-sharp)**:websocket-sharp提供 WebSocket 客户端和服务器库，基于 C# 开发的，并遵循 WebSocket 协议规范，使得开发人员能够轻松地在 .NET 应用程序中实现 WebSocket 通信。
+<br>
+Github：https://github.com/sta/websocket-sharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944754&idx=1&sn=702ef800f48f0bdfbf36c98263a1a92a&chksm=b1bb0ee786cc87f1db6c5c35dffa42f234f456c8dc0b35051aee9fa68c0f0e47c35ab95b5cd5&token=458611829&lang=zh_CN#rd)
+
+**226、Eval-Expression.NET：动态执行C#脚本，类似Javascript的Eval函数功能(Eval-Expression.NET)**:Eval-Expression.NET是一个非常强大工具，使得开发人员可以动态编译和执行C#代码和表达式。通过C#反射，还能轻松访问公共和私有方法、字段、属性值，并创建对象实例。
+<br>
+Github：https://github.com/zzzprojects/Eval-Expression.NET<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944741&idx=1&sn=d4340f322106b427c28fca250284e7ba&chksm=b1bb0ef086cc87e6db71b39e13715b3081040b5ea1a72dd11c6020fef486e00190dbb9dad3fe&token=458611829&lang=zh_CN#rd)
+
+**225、ExcelDataReader：一个.Net高性能Excel开源读取器(ExcelDataReader)**:ExcelDataReader是一个功能强大且易于使用的开源项目，提供了丰富的读取API，专门读取Excel文件的数据，特别是处理大数据量的情况。
+<br>
+Github：https://github.com/ExcelDataReader/ExcelDataReader<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944706&idx=1&sn=b169277bf297205f422ab82bf7a22a87&chksm=b1bb0ed786cc87c1d1b1d110ea7be705f5240efb4e5713da6a37c2d093fa2582bf107819559e&token=458611829&lang=zh_CN#rd)
+
+**224、一个C#开源工具库，集成了超过1000个扩展方法(Z.ExtensionMethods)**:为.NET开发人员提供一系列实用的扩展方法，可以减少重复劳动、提高开发效率，支持.NET Framework 和 .NET Core。
+<br>
+Github：https://github.com/zzzprojects/Z.ExtensionMethods<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944700&idx=1&sn=6da1d848e8dbb6fdfdb3f3c0971862ea&chksm=b1bb0e2986cc873f1f10044d728b414979b51ef8b1fc179035cd0943d9ab0d3e7dad09ab1a45&token=458611829&lang=zh_CN#rd)
+
+**223、StableSwarmUI：StableDiffusion客户端，官方出品、功能强大且易用！(StableSwarmUI)**:StableSwarmUI是由官方推出的WebUI框架，真正的文生图和图生图的推理任务，还是在后端执行，官方推荐我们配合ComfyUI来使用。
+<br>
+Github：https://github.com/Stability-AI/StableSwarmUI<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944690&idx=1&sn=0bff951fbb4870690e3d0a80f1b459d9&chksm=b1bb0e2786cc87317a9141b25bac6ab2e56fee64206fd66f7b5c4069d63d564deeb1febe7bbf&token=458611829&lang=zh_CN#rd)
+
+**222、Garnet：微软官方基于.Net8开源缓存系统，可无需任何改动直接替代Redis，而且还更高性能！(garnet)**:Garnet是微软官方基于.Net 8开发的、开源高性能远程缓存存储系统，支持单节点、集群。
+
+Garnet使用的是当前流行的 RESP 协议，使得当前大多数编程语言现成的 Redis 客户端无需做任何改动，比如C#中的StackExchange.Redis。
+<br>
+Github：https://github.com/microsoft/garnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944678&idx=1&sn=64ee3d8978a30edac6837783dccfc2f2&chksm=b1bb0e3386cc87259126f441652b056757e0b3fcd30514ffc64008289c6f38f7f197f0314da4&token=458611829&lang=zh_CN#rd)
+
+**221、Plotly.NET：一个强大的、漂亮的.NET开源交互式图表库(Plotly.NET)**:Plotly.NET是一个开源的.NET绘图库，它基于Plotly.js的API进行开发，提供了非常丰富的图表类型和交互功能。
+
+Plotly.NET默认生成结果是Html文件，可以直接在浏览器打开，可以把Html保存至指定路径，或者保存为各种图片格式：JPG、PNG、SVG。
+<br>
+Github：https://github.com/plotly/Plotly.NET<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944662&idx=1&sn=2104aa4536863249d89c925d0d4f15f4&chksm=b1bb0e0386cc8715e0baf3efec27cdc854e3801c6b11425eae2e67d469d95c6e10925581330b&token=458611829&lang=zh_CN#rd)
+
+**220、一套UI精美、控件丰富、多主题的WinForm开源界面库(ReaLTaiizor)**:ReaLTaiizor是一个基于.Net的开源WinForm UI库，包含了多种常用控件和多种主题风格，支持.Net Framework 4.8、.NetCore 3.1到.Net 8的版本范围。
+<br>
+Github：https://github.com/Taiizor/ReaLTaiizor<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944655&idx=1&sn=d0a5004a58a32f1ccf0d9926bdbb8f87&chksm=b1bb0e1a86cc870ce1d396e1e84ef96d7b69747f2ec7b9f3473b2ca3fecd90457ed7cd192f23&token=458611829&lang=zh_CN#rd)
+
+**219、一个基于.Net、支持直播等流媒体下载的开源项目(N_m3u8DL-RE)**:N_m3u8DL-RE是一个基于.NET的跨平台流媒体下载器，支持点播、直播(DASH/HLS)。
+
+该项目提供了友好的用户界面、支持语言：English/简体中文/繁體中文。可以MPD/M3U8/ISM等格式的流媒体保存到本地，便于用户观看或进行二次创作。
+<br>
+Github：https://github.com/nilaoda/N_m3u8DL-RE<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944614&idx=1&sn=21c2d5594456381542518381881008b9&chksm=b1bb0e7386cc87658148d5e3e539b8e28f98fc2ca3ff8e212838421f38227afc356f6d112847&token=458611829&lang=zh_CN#rd)
+
+**218、Yantra：一个基于.Net跨平台JavaScript开源引擎(yantra)**:Yantra是一个基于.NET Standard开发的开源项目，提供了一个完全用C#编写的托管JavaScript引擎，方便.Net环境中高效地执行JavaScript脚本。
+<br>
+Github：https://github.com/yantrajs/yantra<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944601&idx=1&sn=78275d7815c5210a873d4bb74365c455&chksm=b1bb0e4c86cc875ab1ae7d80fd9ca1627bbee00748a4cf67403620d75eee6d3e01452289aec4&token=458611829&lang=zh_CN#rd)
+
+**217、OxyPlot：一个功能强大、漂亮.Net跨平台开源绘图库(oxyplot)**:OxyPlot是一个基于.NET开发的、跨平台的绘图库，可用于多种平台和框架，如WPF、Windows 8、Windows Phone、Windows Phone Silverlight、Windows Forms、Silverlight、GTK#、Xwt、Xamarin.iOS、Xamarin.Android、Xamarin.Forms和Xamarin.Mac等。它提供了丰富的绘图功能，可以用于创建各种类型的图表，如折线图、柱状图、饼图、散点图等。
+<br>
+Github：https://github.com/oxyplot/oxyplot<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944587&idx=1&sn=107ed6180f92f41b5509d7e883c57860&chksm=b1bb0e5e86cc87485634703964a9fe2caff95e71226c3c3eb3d7ca8d7e1586fa6173d1bed000&token=458611829&lang=zh_CN#rd)
+
+**216、一个超快低延迟.Net网络通信库：支持TCP,SSL,UDP,HTTP,HTTPS,WebSocket多协议(NetCoreServer)**:NetCoreServer是一个基于.NET Core的开源项目，一个高性能、跨平台的异步套接字服务器与客户端库。该项目支持多种传输协议，包括TCP、SSL、UDP、HTTP、HTTPS以及WebSocket，为开发者提供了丰富的网络通信功能。
+<br>
+Github：https://github.com/chronoxor/NetCoreServer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944570&idx=1&sn=b4720699d031cf3e34271ac61c7f506e&chksm=b1bb11af86cc98b9abe059574b3599fdc91d64c28686bd869c7a8f1b162aa717e885a50d7d6e&token=458611829&lang=zh_CN#rd)
+
 **215、Flurl：一个Star3.9K的链式RESTful风格HTTP开源.Net库(Flurl)**:基于.Net开发的开源库，是一个现代化的、流畅的、异步的、可测试的、可移植的URL构建器和HTTP客户端库。这个开源项目提供了强大功能，使得开发人员方便构建和处理RESTful风格HTTP请求。
 <br>
 Github：https://github.com/tmenier/Flurl<br>
