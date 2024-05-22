@@ -29,6 +29,51 @@
 =
 （排名不分先后）<br>
 
+**238、MudBlazor：一个UI简洁美观漂亮的Blazor开源组件！(MudBlazor)**:为 Blazor 应用程序提供了一套丰富的 Material Design 风格的组件。MudBlazor提供了一套完整的组件库，使得开发者能够快速构建美观且功能丰富的用户界面。
+<br>
+Github：https://github.com/MudBlazor/MudBlazor<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944955&idx=1&sn=984642d3f0141639c86a9f7e44dc632a&chksm=b1bb0f2e86cc86387b350d18d57368c20ccdad6000f9c8e20d02c82daddfce6830d54a7efc1a&token=200481896&lang=zh_CN#rd)
+
+**237、Jot：方便.Net开发者状态和应用数据持久化的开源库(Jot)**:专注于简化应用程序的状态持久化。它允许开发者轻松跟踪和管理应用状态，例如UI元素的位置和大小、用户偏好和设置等。使用Jot可以大量减少我们的代码量、提升开发效率，使代码更加简洁和易于维护。
+<br>
+Github：https://github.com/anakic/Jot<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944940&idx=1&sn=fbbf050683ed39d71d9dc2d766ca57cf&chksm=b1bb0f3986cc862fea906849cb02077c30ccf9266e0c859683ed2f770d42f13cd2e5b0bbbc7f&token=200481896&lang=zh_CN#rd)
+
+**236、WingetUI：可视化Windows常用的命令行包管理工具(WingetUI)**:一个图形用户界面（GUI）来管理包，支持命令比如 Winget、Scoop、Chocolatey、Pip、Npm、.NET 工具和 PowerShell Gallery。通过 WinGetUI，用户可以更方便地搜索、安装、更新和卸载 Windows 应用程序，而无需使用命令行。
+<br>
+Github：https://github.com/marticliment/WingetUI<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944934&idx=1&sn=483e906f15dc4e6b8994a47b76e3f71e&chksm=b1bb0f3386cc8625861aaf09ffef79bfe84075a2c1b1e2f2a54465aea310830eba307c028391&token=200481896&lang=zh_CN#rd)
+
+**235、AutoFixture：.NET的假数据生成工具(AutoFixture)**:一个用于 .NET 的测试工具，它允许开发者在单元测试中自动生成随机的测试数据。它支持广泛的数据类型，包括常见的基元类型、复杂对象、集合等。AutoFixture 通过使用继承、接口、属性和构造函数等机制来推断如何创建复杂的对象。
+<br>
+Github：https://github.com/AutoFixture/AutoFixture<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944923&idx=1&sn=79228c0d83ae1a13e136ed1c346626ab&chksm=b1bb0f0e86cc861873597a9eaca9a63468aea68ab07e3d79c5251423aee34a51525c8a977a03&token=200481896&lang=zh_CN#rd)
+
+**235、Terminal.Gui：.Net构建跨平台终端的框架(Terminal.Gui)**:一个基于 .NET 的跨平台终端用户界面库，它允许开发者使用 C#创建终端应用程序，而无需依赖于传统的图形界面元素。该库提供了一套类似于 Windows Forms 或 WPF 的编程模型，但是专为文本模式的终端设计。
+<br>
+Github：https://github.com/gui-cs/Terminal.Gui<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944917&idx=1&sn=0a1fec84cc321ff3f766f9042ae97ee3&chksm=b1bb0f0086cc86163ab98994835b164fec7c56e30d1d602610765a893df86cd215a791bc31b3&token=200481896&lang=zh_CN#rd)
+
+**234、MockQueryable：LINQ查询模拟测试工具(MockQueryable)**:一个开源的.NET库，它允许开发者在不依赖于数据库的情况下模拟LINQ查询。通过使用MockQueryable，可以创建一个可查询的对象，它能够模拟真实的IQueryable行为，包括延迟执行、过滤、排序等操作。
+<br>
+Github：https://github.com/romantitov/MockQueryable<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944910&idx=1&sn=ee03f34d25a2f609c3618c246d5e0f8a&chksm=b1bb0f1b86cc860d4cb096ba66b943a7c92a7b4abbcf080dd100713e97e99a3233242fa92b45&token=200481896&lang=zh_CN#rd)
+
+**233、Coravel：一个可轻松实现任务调度、队列、邮件发送的开源项目(coravel)**:一个.NET开源任务调度库，只需简单代码、几乎零配置就可以实现多种功能柜，如任务调度、队列、缓存、事件广播和邮件发送等。该项目特点就是让这些通常复杂的功能变得易于访问和使用，同时提供简洁、直观的语法。
+<br>
+Github：https://github.com/jamesmh/coravel<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944888&idx=1&sn=fe455dcf92231a846a02ab686a71d799&chksm=b1bb0f6d86cc867bbe46f7e578619277fd9f9b20c3966c0fef7450f495919e2c541fcfe76e00&token=200481896&lang=zh_CN#rd)
+
+**232、推荐一个C#轻量级矢量图形库(VectSharp)**:一个功能强大的 C# 库，专门用于创建矢量图形，包括文本，不依赖任何第三方，支持跨平台运行，包括 Mac、Windows 和 Linux。使得开发者可以更容易地在他们的项目中集成矢量图形的生成和处理。
+<br>
+Github：   { "linkToGitHub", "https://github.com/&#34;" },"https://github.com/&#34;"https://github.com/arklumpus/VectSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944883&idx=1&sn=a9bbbe3ae4371c3c18fe5b4e8b5af151&chksm=b1bb0f6686cc86703641a3bece8bd870b44120b32cb66b178c75057fd5b167a90574358ddaee&token=200481896&lang=zh_CN#rd)
+
+**231、Bogus：.NET的假数据生成利器(Bogus)**:Bogus 是一个开源的 .NET 库，它提供了一个强大的工具集，用于生成虚假（mock）数据。方便项目用于测试、填充数据库、创建模拟数据集或生成示例数据，以便开发、测试、演示使用。
+<br>
+Github：https://github.com/bchavez/Bogus<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944872&idx=1&sn=a6aed53dec42e47f9a341f42713bbeca&chksm=b1bb0f7d86cc866ba98918c00243c47218a74b999da4ce898cd6293df4006b31490fed4e52ae&token=200481896&lang=zh_CN#rd)
+
 **230、FluentAssertions：C#单元测试断言库，让测试代码更加直观、易读！(fluentassertions)**:FluentAssertions 是一个基于 .NET 的断言库，它提供了一种链式调用的方式来编写断言语句。支持框架.NET Framework 4.7、.NET Core 2.1、.NET Core 3.0、.NET 6、.NET Standard 2.0/2.1，支持单元测试框架MSTest2、NUnit3、XUnit2、MSpec和NSpec3。
 <br>
 Github：https://github.com/fluentassertions/fluentassertions<br>
