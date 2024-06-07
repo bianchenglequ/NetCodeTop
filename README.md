@@ -29,6 +29,37 @@
 =
 （排名不分先后）<br>
 
+
+**244、DynamicExpresso：强大的动态执行C#表达式解析器(DynamicExpresso)**:内置了解析逻辑，它能够将.NET的lambda表达式或委托转化为C#语句，并在内存中的动态执行。
+<br>
+Github：https://github.com/dynamicexpresso/DynamicExpresso<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945000&idx=1&sn=1efcd5f2c4aefa3868d8d55ac9f0a60a&chksm=b1bb0ffd86cc86ebe0730e09891202ef0275fe99ae2d25d968ead0aa0563214187829770c36d&token=1427717190&lang=zh_CN#rd)
+
+**243、CsvHelper：一个轻便高性能的Csv文件读写操作开源库！(CsvHelper)**:这是一个强大且易于使用的工具，使得开发者可以非常方便处理 Csv文件。方便我们应用于数据导入导出、数据迁移、报告生成等一些应用场景。
+<br>
+Github：https://github.com/JoshClose/CsvHelper<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944995&idx=1&sn=94058e13808da818aa4fddd3ab15e797&chksm=b1bb0ff686cc86e0f15f82c8a7f0aa729bc177467fdda8dbe1136ec4fafadd638793b31bdf89&token=1427717190&lang=zh_CN#rd)
+
+**242、ZXing.Net：一个开源条码生成和识别器，职场二维码、条形码等(ZXing.Net)**:ZXing的.Net版本的开源库。支持跨多个平台工作，包括 Windows、Linux 和 macOS，以及在 .NET Core 和 .NET Framework 上运行。
+<br>
+Github：https://github.com/micjahn/ZXing.Net<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944977&idx=1&sn=cc09fd6aea25b9076f11bde732c92ba0&chksm=b1bb0fc486cc86d2982b9b8f2c37d4c507b23322edd49a7eb01728282d3c543467c15656037f&token=1427717190&lang=zh_CN#rd)
+
+**241、OFGB：一键禁用Windows11广告的开源工具(OFGB)**:采用 WPF 构建用户界面的工具，它通过修改 Windows 注册表中的特定键值来开关Windows 11广告。OFGB 提供了直观的用户界面，使得普通用户也能轻松操作。
+<br>
+Github：https://github.com/xM4ddy/OFGB<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944970&idx=1&sn=45bb52d6785c25ea90c476bbe79b17a6&chksm=b1bb0fdf86cc86c99be3790c831fd24d97e06e894b3dfd51487be64a243d5ef66c991b3b9245&token=1427717190&lang=zh_CN#rd)
+
+**240、Blazor-Workshop：一个可让你从零学习Blazor开发到部署的开源项目(blazor-workshop)**:一个运用Blazor框架实际应用的开源项目。它通过BlazingPizza案例，向开发者展示了如何使用Blazor构建高性能、交互式的Web应用程序。
+<br>
+Github：https://github.com/dotnet-presentations/blazor-workshop<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944964&idx=1&sn=5c5f925dcb713d962752876a063dfa27&chksm=b1bb0fd186cc86c7413d96a0546f1fed7f6558a8bfc9d2c743ab9f2586b2f0cfa8c88e883aa9&token=1427717190&lang=zh_CN#rd)
+
+**239、TheAlgorithms/C-Sharp：一个包含上百个C#算法示例代码的开源库(C-Sharp)**:该项目收集、整理并实现各种常见的算法和数据结构，全部使用 C# 语言。它不仅为初学者提供了学习算法的平台，也为经验丰富的开发者提供了代码参考和实现灵感。
+<br>
+Github：https://github.com/TheAlgorithms/C-Sharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944959&idx=1&sn=8245d4761f48517f80906450f77b8dad&chksm=b1bb0f2a86cc863c99bf06f3b025797ec05be9065954b144c5efb5b5b508e48497aaca6947a7&token=1427717190&lang=zh_CN#rd)
+
 **238、MudBlazor：一个UI简洁美观漂亮的Blazor开源组件！(MudBlazor)**:为 Blazor 应用程序提供了一套丰富的 Material Design 风格的组件。MudBlazor提供了一套完整的组件库，使得开发者能够快速构建美观且功能丰富的用户界面。
 <br>
 Github：https://github.com/MudBlazor/MudBlazor<br>
