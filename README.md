@@ -29,6 +29,38 @@
 =
 （排名不分先后）<br>
 
+**249、Sprache：轻量级C#解析器构建，可用于字符串验证等。(Sprache)**:一个简单、轻量级的库，专门用于直接在C#代码中构造解析器，以解析如代码这类的结构化文本。该库的设计原则是提供易于理解和使用的API，同时保持足够的灵活性以应对各种解析需求。
+<br>
+Github：https://github.com/sprache/Sprache<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945046&idx=1&sn=2fb6850f9d108b63e4f958e6786410cf&chksm=b1bb0f8386cc86959706ff140f2790fb0f0afc69ba0893b6addbb148ee819cd9cbd4d4f8f0f1&token=1559127086&lang=zh_CN#rd)
+
+**248、mRemoteNG：一个基于.Net开发的支持多协议远程连接管理工具(mRemoteNG)**:支持选项卡式、多协议的远程连接管理器。
+
+mRemoteNG在mRemote新增并修复了很多功能，方便我们通过一个简单而强大的选项卡式界面中管理和查看所有远程连接。
+
+支持的操作系统，包含Windows 8、Windows Server 2016及以上版本的操作系统。
+<br>
+Github：https://github.com/mRemoteNG/mRemoteNG<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945030&idx=1&sn=2584553671b3662495186488c57fe1f6&chksm=b1bb0f9386cc86852e1dc55856e2bfd9c52cb0be021f0bef1adc386f1ba0468e4f1ced11bd60&token=1559127086&lang=zh_CN#rd)
+
+**247、FastEndpoints：轻量级、高性能的ASP.NETCoreWebAPI开发框架(FastEndpoints)**:FastEndpoints是基于REPR设计模式（请求-端点-响应）的Web API框架，它旨在减少开发代码量，提升开发效率。
+
+与传统的ASP.NET Core Web API相比，FastEndpoints通过内联处理程序和直接的数据访问，大大简化了开发流程。
+<br>
+Github：https://github.com/FastEndpoints/FastEndpoints<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945020&idx=1&sn=828d65b572a1b519145808bd0fa2429a&chksm=b1bb0fe986cc86ff7ef0faf36bda9c9454d8cfe0865fcfd7c197a3b103db8762a45ae03a7c3a&token=1559127086&lang=zh_CN#rd)
+
+**246、SubtitleEdit：一个基于.Net开发的开源字幕编辑器(subtitleedit)**:支持跨平台使用，包括Windows、Linux 和 macOS。这个软件不仅支持多种字幕格式，还提供了丰富的编辑功能，使得字幕的创建、编辑和转换变得非常简单。
+<br>
+Github：https://github.com/SubtitleEdit/subtitleedit<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945013&idx=1&sn=55b6c643f533f969625767e9ad53adaf&chksm=b1bb0fe086cc86f6ef48ecb079164a51156509eb5cc882b05dbe5e2938e942c9f14617442757&token=1559127086&lang=zh_CN#rd)
+
+**245、CQRSlite：一个CQRS和事件溯源的.Net轻量级框架！(CQRSlite)**:该项目使用 C# 创建命令查询响应分离（CQRS）和事件溯源（Event Sourcing）的架构，支持.NET 4.5.2、.NET Core。
+
+该项目比较简单，并带有一个简单示例，如果想要学习CQRS，比较方便入门，还是一个不错的学习项目。
+<br>
+Github：https://github.com/gautema/CQRSlite<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945004&idx=1&sn=058484f328d92456ed13e2d3dbdd185d&chksm=b1bb0ff986cc86ef4e6bba3c0859b98c0ed9a7e2cdb4e3a86916ea55344050ad23c146dcd831&token=1559127086&lang=zh_CN#rd)
 
 **244、DynamicExpresso：强大的动态执行C#表达式解析器(DynamicExpresso)**:内置了解析逻辑，它能够将.NET的lambda表达式或委托转化为C#语句，并在内存中的动态执行。
 <br>
