@@ -29,6 +29,98 @@
 =
 （排名不分先后）<br>
 
+**258、Nito.AsyncEx：async/await的.Net辅助库。(AsyncEx)**:Nito.AsyncEx是一个功能强大且灵活的开源项目，它提供了一系列工具和扩展方法，使得开发者可以更加轻松地编写和管理异步任务。
+<br>
+Github：https://github.com/StephenCleary/AsyncEx<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945140&idx=1&sn=5dbd2fec456f08751daa4b73fbbe294c&chksm=b1bb0c6186cc8577ebb4a9f467ba14abe0bd39a127c174f66d4373e94187b514c82afbc1b04c&token=214187208&lang=zh_CN#rd)
+
+**257、MessagePack-CSharp：.Net高性能序列化压缩开源库！(MessagePack-CSharp)**:MessagePack-CSharp是一个兼容各个平台（包括 .NET、.NET Core、Unity 和 Xamarin）的非常快速的消息包序列化器。支持了高效的方法来序列化和反序列化数据，特别适合于游戏、分布式计算、微服务或数据缓存等对性能要求较高的应用程序。
+<br>
+Github：https://github.com/MessagePack-CSharp/MessagePack-CSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945133&idx=1&sn=6e4f516c4394b9c2ff5148613446fbd6&chksm=b1bb0c7886cc856ed003307d093faf0f4d5aabd1a971494320dd9ae723944aeee2fbce515a5d&token=214187208&lang=zh_CN#rd)
+
+**256、openai-dotnet：OpenAI官方提供的.NETSDK库！(openai-dotnet)**:openai-dotnet是OpenAI 官方提供的 .NET库，用于方便.NET应用程序中访问 OpenAI REST API。
+
+该项目的关键特点和功能：
+
+1、快速开发：该库使得开发者在 .NET环境中快速调用 OpenAI 的各种功能，如聊天补全、文本嵌入、图像生成、音频转录等。
+
+2、OpenAPI 规范：库是根据 OpenAI 的 OpenAPI 规范生成的，并且与 Microsoft 合作开发。
+
+3、使用简单：通过NuGet包管理器可以很容易地将这个库添加到你的 .NET 项目中。
+
+4、支持异步API：提供了同步和异步两种方法来调用API ，方便开发者根据需要选择使用。
+
+5、流式传输：支持流式传输 API 响应，可以实时获取部分生成的结果，而不必等待整个响应生成完毕。
+
+6、工具和函数调用：支持在聊天补全中使用工具和函数调用，使模型能够根据需要调用外部函数来获取信息。
+
+7、Azure OpenAI 集成：暂未实现，但不久将来将支持与 Azure OpenAI 服务的集成。
+
+8、独立命名空间：每一个功能都有独立的命名空间。
+<br>
+Github：https://github.com/openai/openai-dotnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945112&idx=1&sn=cef47e0828de8d7c413be8a42d689335&chksm=b1bb0c4d86cc855bafbcfd5f59d0efc10cc411cece3ee131c4a947080572ba7df3721915738e&token=214187208&lang=zh_CN#rd)
+
+**255、mongo-csharp-driver：MongoDB官方的C#客户端驱动程序！(mongo-csharp-driver)**:mongo-csharp-driver是 MongoDB官方C#客户端的开源项目，它可以方便C#开发者在应用程序中与 MongoDB 数据库进行交互。
+该项目为我们提供了丰富的API，如查询、更新、删除和插入数据、身份验证、LINQ、事务、索引等，支持.Net Core/ .NET Framework。
+官方一直都会定期发布新版本，并且提供了非常详细的开发文档和新功能介绍，最新版本也支持Entity Framework Core。
+<br>
+Github：https://github.com/mongodb/mongo-csharp-driver<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945097&idx=1&sn=30689fe4c31f297bd73f57cd226aa68f&chksm=b1bb0c5c86cc854a223d49da687319645e1e2a0ad0f33d5b3b078a86b01725246285042da03d&token=214187208&lang=zh_CN#rd)
+
+**254、dotnet-starter-kit：一个WebAPI+Blazor多租户、模块化、简洁DDD架构！(dotnet-starter-kit)**:dotnet-starter-kit是一个基于 .NET 8 的开源项目，架构构建基于 Clean Architecture 原则的解决方案。支持多租户、模块化，一个开箱即用的项目，方便我们快速开发项目。
+
+数据库支持：PostgreSQL 、MySQL、MSSQL、Oracle。
+
+作为学习项目也是不错的选择，从中可以学习如多租户、CQRS、洋葱架构、清洁编码标准、使用Terraform到AWS的云部署、Docker概念、CICD管道和工作流等。
+<br>
+Github：https://github.com/fullstackhero/dotnet-starter-kit<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945093&idx=1&sn=ae54a21030cebd619d065f45dc5c3b3a&chksm=b1bb0c5086cc8546726a6282be216476ceaa7f6aa8f4d0ee8ed597b1c1fdb060fb60c3c1676e&token=214187208&lang=zh_CN#rd)
+
+**253、CSharpRepl：一个跨平台轻量级的C#命令行工具(CSharpRepl)**:CSharpRepl是一个跨平台的命令行C# REPL（Read-Eval-Print Loop即读取-求值-打印循环），是基于.NET 8开发的工具，可以在Windows、Mac OS和Linux上运行。
+使用该工具，可以方便开发人员快速验证和学习C#语言。
+该工具是一个独立程序，但也可以与其他开发工具集成，如Windows Terminal和Visual Studio Code。
+<br>
+Github：https://github.com/waf/CSharpRepl<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945086&idx=1&sn=0640c8a38e72ac371ed5f81c5fa3179f&chksm=b1bb0fab86cc86bd3613b5b39ef69dea7a65faac83fbf8a1bd8ae7f7103b15133584ee5dac92&token=214187208&lang=zh_CN#rd)
+
+**252、C-sharp-console-gui-framework：C#控制台应用程序的GUI框架(C-sharp-console-gui-framework)**:ConsoleGUI是一个简单的布局驱动.NET框架，用于创建基于控制台的GUI应用程序。
+
+核心功能：
+布局驱动：与WPF或HTML类似，是完全布局驱动的。开发人员不需要指定控件的确切坐标，而是让堆栈面板、停靠面板和其他布局管理器自动处理。
+支持跨平台：框架不依赖于特定平台，且没有外部依赖。它针对.NET标准2.0，可以在Windows和Linux机器上运行。
+基本控件：提供了一系列基本控件，如文本框（TextBox）、文本块（TextBlock）、网格（DataGrid）等。
+响应式设计：如果窗口大小没有显式设置，布局将根据窗口的初始大小进行调整。但框架不自动检测终端大小变化。
+线程和兼容性：不是线程安全的，所有UI更改应在同一线程上执行。默认情况下，ConsoleGUI使用真彩色格式，通过支持多达1678万种前景和背景颜色。如果终端不支持真彩色，可以使用兼容性模式。
+<br>
+Github：https://github.com/TomaszRewak/C-sharp-console-gui-framework<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945074&idx=1&sn=ed436ac5aa8cc54706b0680d851095a7&chksm=b1bb0fa786cc86b1b0c0ca213f117faa52de762ac8929020c553e96c3fb075d9dc5f68694945&token=214187208&lang=zh_CN#rd)
+
+**251、SharpLab：.Net反编译工具，方便实时查看反编译后的代码！(SharpLab)**:基于Roslyn开发的开源项目，它实时编译反馈、IL代码查看和反编译功能。
+
+它能帮助.Net开发者更好地理解编译器的工作原理、优化程序性能以及进行深入的代码学习和分析。
+
+该项目核心有3个功能：
+
+1、实时查看编译过程：开发者即时输入代码，即可查看编译结果及错误，从而可以快速修正问题，提升开发效率。
+
+2、生成的中间语言（IL）：能将C#、VB.NET、F#的代码编译后的中间语言（IL）代码，帮助开发者理解编译器转换和优化源代码，从而对要深入研究.NET的运行时行为和性能优化有非常大的帮助。
+
+3、反编译后的代码查看：除了查看IL代码外，还提供反编译功能，将IL或程序集转换回近似源代码，有助于开发者理解程序结构和逻辑，对分析第三方库、学习编译原理及逆向工程等非常有帮助。
+
+这是一个非常实用的工具，无论是对于学习新语法、调试代码片段，还是教师讲解编程概念，都有非常大的帮助。
+<br>
+Github：https://github.com/ashmind/SharpLab<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945065&idx=1&sn=2f3a61875abeb5decc5ca2f0e3a42979&chksm=b1bb0fbc86cc86aa51ff1547806d19b27f3c6942b5d7974e9a1fbd2746e726e941a37eb54c2b&token=214187208&lang=zh_CN#rd)
+
+**250、LinqToExcel：轻松使用Linq操作Excel文件！(LinqToExcel)**:它允许开发者使用 LINQ语法来查询 Excel 电子表格和 CSV 文件中的数据，开发者可以像操作数据库一样方便地处理Excel文件。
+
+不过要注意的是需要安装 Microsoft Access Database Engine 2010 Redistributable，这里需要Excel文件所需的数据引擎。
+<br>
+Github：https://github.com/paulyoder/LinqToExcel<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945051&idx=1&sn=2526a1a3226a6003da2387813d4dc94a&chksm=b1bb0f8e86cc86982b9dd8841faddad050911d414aac7342382d50ede486a22d347ee023f928&token=214187208&lang=zh_CN#rd)
+
 **249、Sprache：轻量级C#解析器构建，可用于字符串验证等。(Sprache)**:一个简单、轻量级的库，专门用于直接在C#代码中构造解析器，以解析如代码这类的结构化文本。该库的设计原则是提供易于理解和使用的API，同时保持足够的灵活性以应对各种解析需求。
 <br>
 Github：https://github.com/sprache/Sprache<br>
