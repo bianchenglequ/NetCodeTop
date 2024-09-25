@@ -29,6 +29,87 @@
 =
 （排名不分先后）<br>
 
+**270、Pidgin：一个轻量级、快速且灵活的C#解析库(Pidgin)**:Pidgin是基于C#的开源项目，是一个解析组合器库，提供了一个高级别的声明性工具来构建解析器，使得编写解析器变得简单而直观。
+<br>
+Github：https://github.com/benjamin-hodgson/Pidgin<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945290&idx=1&sn=7da557f23bd6f37bf1b91a4cec49a855&chksm=b1bb0c9f86cc8589e32b8b86f08f283a82907ce4c16271da23332280a6d39cf51ceb4d4c1aba&token=1917534926&lang=zh_CN#rd)
+
+**269、Sep：一个低内存、高性能的CSV文件读写操作.Net开源库(Sep)**:Sep 是一个高性能的 .NET CSV 解析器，具备快速、现代、简洁且高效的数据处理能力。提供了一个简洁而富有表现力的 API，选项精简，对输入输出的处理透明无隐藏。你看到什么就得到什么。通过高效的并行 CSV 解析技术，实现超快速度，比 CsvHelper 快达 35 倍。智能高效的内存管理策略，在预热后实现零内存分配，包括轻松读取或写入值数组（如特征数据）而无需重复分配内存。
+<br>
+Github：https://github.com/nietras/Sep<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945285&idx=1&sn=7036895943a365e40a8b877dc9cc39e0&chksm=b1bb0c9086cc85863a199049270d4d416af957cca91b79e2a7c1d1afbc296e6263f58ff2d31b&token=1917534926&lang=zh_CN#rd)
+
+**268、Boxed：包含多个.Net项目模板，涵盖了ASP.NETCoreAPI、GraphQL等。(Templates)**:.Net Boxed该项目为.NET开发者提供了一套包含基本代码的项目模板，涵盖了ASP.NET Core API、ASP.NET Core GraphQL、Microsoft Orleans以及NuGet Package的项目。
+<br>
+Github：https://github.com/Dotnet-Boxed/Templates<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945259&idx=1&sn=d0893c9455ff13998f0e065f6b662908&chksm=b1bb0cfe86cc85e8a07f3ef71c21d3ce75fdaf33e2e449a8b3f3c17945c65ccb3fc8432702cd&token=1917534926&lang=zh_CN#rd)
+
+**267、CSCore：一个.Net功能强大且灵活的开源音频处理库(cscore)**:CSCore是一个使用C#编写的音频库，它提供了丰富的功能，从播放和录制音频，到解码和编码音频流/文件，再到实时处理音频数据（如播放时应用自定义效果、创建可视化等）。
+
+CSCore 基于一个非常可扩展的架构，这使得你可以毫不费力地使其满足你的需求。
+
+支持的平台：仅限 Windows，Linux 和 Mac 为实验性支持。
+<br>
+Github：https://github.com/filoe/cscore<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945243&idx=1&sn=a09f3247669a7f2202dd7dd1a993b6a7&chksm=b1bb0cce86cc85d8e4073090b6284f8b75e67798403349be481fe40c122d38f72bab987f0fa7&token=1917534926&lang=zh_CN#rd)
+
+**266、ChoETL：支持多数据库读写.Net开源库，包含CSV、XML、JSON等8个格式(ChoETL)**:ChoETL 是一个开源的 .NET ETL（Extract, Transform, Load）框架。
+
+它提供了解析和写入多种文件格式的能力，包括但不限于 CSV、FixedLength、XML、JSON、Key-Value、Parquet、YAML 和 Avro格式的文件、数据库。
+<br>
+Github：https://github.com/Cinchoo/ChoETL<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945237&idx=1&sn=d0888172b127983e738e8fdf4a0ca58b&chksm=b1bb0cc086cc85d685177f4cd24bae5eecfecb0c79837a7c8c6bceec9be2e47645bf5dbb3b4a&token=1917534926&lang=zh_CN#rd)
+
+**265、Atata：一个基于Selenium的C#自动化测试Web框架(atata)**:Atata Framework 是一个基于 Selenium WebDriver 的 C#/.NET Web UI 测试自动化全功能框架。
+
+它使用流畅的页面对象模式；具有内置的日志记录系统；包含独特的触发器功能；具有一组即用型组件。
+<br>
+Github：https://github.com/atata-framework/atata<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945232&idx=1&sn=b666f9a8016be6564b4dc87a87257912&chksm=b1bb0cc586cc85d3123a24585825a46c1fac25dd9c262dc9d20f0a58666c9d9472f71ef58c8d&token=1917534926&lang=zh_CN#rd)
+
+**264、HtmlSanitizer:一个保护你的网站免受XSS攻击的.Net开源项目(HtmlSanitizer)**:HtmlSanitizer 是一个强大的库，它能够审查和清理 HTML 内容，移除或转义那些可能被用于 XSS 攻击的标签和属性。
+
+这个工具的核心功能是提供一个安全的方式来处理用户提交的 HTML，确保这些内容在被渲染到网页上之前是无害的。
+<br>
+Github：https://github.com/mganss/HtmlSanitizer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945205&idx=1&sn=3ed3d6e2fb921fa1ea368a14087c2070&chksm=b1bb0c2086cc853626e5dc46d6b2474c20748cf8c9cafa1f9f672e56bce76e6d7f81cae412d0&token=1917534926&lang=zh_CN#rd)
+
+**263、SecurityHeaders：为.Net网站添加安全标头，让Web更加安全、避免攻击！(NetEscapades.AspNetCore.SecurityHeaders)**:NetEscapades.AspNetCore.SecurityHeaders 是一个轻便的的 ASP.NET Core 开源库，旨在方便开发者向 ASP.NET Core 网站添加安全头（Security Headers）。
+该库提供了一套默认的安全头，都是非常常见的，这些头被广泛应用于提高网站的安全性。
+<br>
+Github：https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945193&idx=1&sn=1d134e92c86699c94d57624fa37071d9&chksm=b1bb0c3c86cc852a91732cef1ee46af5fff992efcbb4b01fda60027dedd1c73dfd077cc32e93&token=1917534926&lang=zh_CN#rd)
+
+**262、Scriban：高效、强大的.NET开源模板引擎，可用于邮件、文档生成！(scriban)**:Scriban是一个基于.NET的开源模板语言引擎，旨在简化文本生成任务。该模板引擎使用简单、语法简洁。采用了编译到IL（中间语言）的方式，而非简单的字符串替换，这在处理大量数据时能够显著提升性能。Scriban能够利用静态类型检查，避免运行时错误，提高代码质量。除了基本的变量和控制结构外，还提供了许多内置函数和过滤器，如字符串操作、日期格式化等，以增强模板的功能。
+<br>
+Github：https://github.com/scriban/scriban<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945189&idx=1&sn=8edd5851ceba8ef2a6308434380dd022&chksm=b1bb0c3086cc852692a38dff4f09ee7ba74367ed746ca1c68f73c686f809201b6f1bda74b149&token=1917534926&lang=zh_CN#rd)
+
+**261、Kiota：基于OpenAPI的HTTP客户端代码生成器(kiota)**:Kiota是一个命令行工具，是一个基于OpenAPI规范的HTTP客户端代码生成器。
+使得开发者可以使用OpenAPI规范来生成不同编程语言的客户端库，从而使得开发者可以更加专注于业务逻辑的实现，而不是底层的HTTP请求细节。
+适用于任何需要与RESTful API进行交互的场景，无论是企业级应用、微服务架构，还是简单的脚本任务。
+<br>
+Github：https://github.com/microsoft/kiota<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945174&idx=1&sn=47b783e4ae7af054f4603d17d4a39ecc&chksm=b1bb0c0386cc85159938d185f3123de8da43990929e7f45523c3926469d595022fb98ad06a9b&token=1917534926&lang=zh_CN#rd)
+
+**260、ZoneTree:高性能ACID兼容的.NET有序键值数据库(ZoneTree)**:ZoneTree基于.Net开发的开源键值数据库。它以其持久化存储、高性能处理、事务性操作和ACID合规性而著称。ZoneTree能够以内存数据库的形式运行，也可以在本地或云存储上进行数据持久化，提供了灵活性和可扩展性。
+<br>
+Github：https://github.com/koculu/ZoneTree<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945163&idx=1&sn=bdfb9cc6c13f06d2688d11c5e8e05d0f&chksm=b1bb0c1e86cc85080579c94707ddfa898be44f0725782f571fafda2b01160975970dbbfb6f99&token=1917534926&lang=zh_CN#rd)
+
+**259、CsvExport：一个.Net高性能、低内存的CSV导出开源库(CsvExport)**:CsvExport是一个基于C#非常简单和快速的CSV导出开源库。
+该开源库的核心特点：
+导出功能兼容性高（自动检测分隔符，友好裁剪行列和值以提高兼容性）
+导出的内容会自动转义逗号、引号和多行文本
+导出的内容以时区安全格式导出日期
+极其易于使用
+.NET Standard 2.0库（兼容.NET Core和.NET Framework）
+比CsvHelper快30倍
+内存使用量仅为CsvHelper的四分之一
+<br>
+Github：https://github.com/jitbit/CsvExport<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449945151&idx=1&sn=78da3bcdb673d65a13063b10edf726a3&chksm=b1bb0c6a86cc857c304aee1ea1091fa025b868bd1081de4ad597453fc73d579d66938ee7c5dd&token=1917534926&lang=zh_CN#rd)
+
 **258、Nito.AsyncEx：async/await的.Net辅助库。(AsyncEx)**:Nito.AsyncEx是一个功能强大且灵活的开源项目，它提供了一系列工具和扩展方法，使得开发者可以更加轻松地编写和管理异步任务。
 <br>
 Github：https://github.com/StephenCleary/AsyncEx<br>
