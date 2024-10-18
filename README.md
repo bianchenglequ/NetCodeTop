@@ -411,9 +411,9 @@ Github：https://github.com/Drizin/DapperQueryBuilder<br>
 Github：https://github.com/drewnoakes/metadata-extractor-dotnet<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944497&idx=1&sn=aba1d9840160721a7d664d6bffea4e7b&chksm=b1bb11e486cc98f2fb234714462d731421ee3c3e02467dd286170df7eb41f9dd4a4525a6a4cf&token=695847979&lang=zh_CN#rd)
 
-**211、一个可操作PPT的.Net开源库(ShapeCrawlergithub)**:ShapeCrawler 是一个专为处理 PowerPoint 演示文稿而设计的 .NET 库。这个库为开发者提供了一组简单易用的 API，以便操作 PowerPoint (.pptx) 文件中的各种元素。
+**211、一个可操作PPT的.Net开源库(ShapeCrawler)**:ShapeCrawler 是一个专为处理 PowerPoint 演示文稿而设计的 .NET 库。这个库为开发者提供了一组简单易用的 API，以便操作 PowerPoint (.pptx) 文件中的各种元素。
 <br>
-Github：https://github.com/ShapeCrawler/ShapeCrawlergithub<br>
+Github：https://github.com/ShapeCrawler/ShapeCrawler<br>
 详细介绍：[点击查看](https://mp.weixin.qq.com/s?__biz=MjM5MDE5MDM5NA==&mid=2449944490&idx=1&sn=7f7affad2789e651dc63087265b0679c&chksm=b1bb11ff86cc98e9398b9a14003fd1a61b61b6fe7dbba4824977ca3214dbd7665f0c1d3ceb3c&token=695847979&lang=zh_CN#rd)
 
 **210、.NET开发者的GitHub开放平台SDK(github)**:Octokit.net是一个开源的.NET库，它是基于Github API封装的SDK，方便开发者轻松调用GitHub接口进行相关操作，如管理仓库、处理拉取请求、创建和更新问题、与GitHub Webhooks交互等。
