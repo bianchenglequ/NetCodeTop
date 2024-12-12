@@ -29,6 +29,96 @@
 =
 （排名不分先后）<br>
 
+
+**284、RepoDB：一个介于Dapper、EFCore之间.Net的ORM库(RepoDB)**:RepoDB 提供了基本操作所需的方法，同时也提供了一些高级功能，如第二层缓存、跟踪、仓储、属性处理器和批量/大量操作。支持的数据库，包括SqlServer、SQLite、MySql和PostgreSql等。
+<br>
+Github：https://github.com/mikependon/RepoDB<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/aCS0GUaUizURTrZKiC2I8g?token=413858659&lang=zh_CN)
+
+**283、Windows-Auto-Night-Mode：一个7.6KStar的Windows主题自动切换.Net开源项目(Windows-Auto-Night-Mode)**:Windows Auto Dark Mode 是一个.Net开源项目，支持在Windows 10 和 Windows 11系统，核心功能是为用户自动切换系统主题的功能，以适应日出和日落的时间变化。
+<br>
+Github：https://github.com/AutoDarkMode/Windows-Auto-Night-Mode<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Mfz98D2U5DHzciYZVCUDdQ?token=413858659&lang=zh_CN)
+
+**282、ai-samples：.Net程序员想要学习AI的，官方的AI教程来了！(ai-samples)**:一个官方提供AI的.NET示例集合，该项目包含各种项目示例代码，方便初学者通过实践示例项目，学习如何将AI集成到我们的.NET项目中。
+<br>
+Github：https://github.com/dotnet/ai-samples<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/AenN1u_7P-oqPJxKMPd76w?token=413858659&lang=zh_CN)
+
+**281、Fleck：一个轻量级的C#开源WebSocket服务端库(Fleck)**:Fleck 是一个用 C# 编写的轻量级 WebSocket 服务器库。它提供了一个简单而直观的 API，使得开发者可以轻松地在他们的应用程序中集成 WebSocket 功能，比如一些常见的实时通信应用，在线游戏、聊天应用和实时数据更新等场景。
+
+Fleck 的设计目标是易于使用和高性能，同时保持代码的简洁性。
+<br>
+Github：https://github.com/statianzo/Fleck<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Awef-r87KLkw0BaGEFb2TA?token=413858659&lang=zh_CN)
+
+**280、Superpower：一个基于C#的文本解析工具开源项目(superpower)**:Superpower 的核心功能是将字符序列作为输入，并生成一个数据结构，以便程序更容易分析、操作或转换。这可以是简单的数字、数据格式中的字段列表，或者是某种编程语言的抽象语法树。
+
+Superpower 允许以声明式风格编写解析器，并在遇到无效输入时提供精确和信息丰富的错误报告。
+<br>
+Github：具体见：https://github.com/datalust/superpower/tree/dev/samplehttps://github.com/serilog/serilog-expressionshttps://github.com/datalust/seqclihttps://github.com/djluck/PromQL.Parserhttps://github.com/datalust/superpower<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/UvHbeq5AgSqFI4dWOgmhDw?token=413858659&lang=zh_CN)
+
+**279、Bulk-Crap-Uninstaller：一个高效卸载，轻松管理你的应用程序的.Net开源工具(Bulk-Crap-Uninstaller)**:Bulk-Crap-Uninstaller是一款开源的软件卸载工具，基于.Net开发的，致力于帮助用户快速、批量地移除电脑中不再需要的应用程序。
+支持批量卸载，用户可以一次性选择多个应用程序进行卸载，大大提高了效率。软件能够深入扫描系统，找到并列出所有已安装的应用程序，包括一些隐藏或难以察觉的程序。
+<br>
+Github：https://github.com/Klocman/Bulk-Crap-Uninstaller<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Y6i1h-snRZktc2ToJA6qfg?token=413858659&lang=zh_CN)
+
+**278、cofoundry：推荐一个.NetCore开源的CMS项目，功能强大、扩展性强、支持插件的系统！(cofoundry)**:Cofoundry是基于.Net开发的、代码优先开发、具备可扩展且灵活的架构、简单易用的内容管理系统。
+<br>
+Github：https://github.com/cofoundry-cms/cofoundry<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/0ItgRGMuXSnl08bi38_gug?token=413858659&lang=zh_CN)
+
+**277、SpreadCheetah：高性能的Excel操作处理.NET库(spreadcheetah)**:SpreadCheetah是一个高性能的.NET库，专注于生成Microsoft Excel XLSX格式的电子表格文件。
+该库具有出色的性能，它能够高效地处理大量数据，生成复杂的电子表格文件。
+<br>
+Github：https://github.com/sveinungf/spreadcheetah<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/D1UxA4Azzk6yu4owv21Lnw?token=413858659&lang=zh_CN)
+
+**276、PythonNet：实现Python与.Net代码相互调用！(pythonnet)**:Python.NET是一个开源项目，它允许Python代码与.NET Common Language Runtime（CLR）进行交互，为.NET开发者提供了一个强大的应用脚本工具。
+通过Python.NET，Python程序员可以轻松地调用.NET类库，而.NET开发者则能够将Python脚本嵌入到他们的应用程序中，实现更加灵活和高效的开发流程。
+<br>
+Github：https://github.com/pythonnet/pythonnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/BWsFrOMK5iMD9oFB_gTiGw?token=413858659&lang=zh_CN)
+
+**275、ImageGlass：基于C#开发的轻量级、多功能的图像查看器(ImageGlass)**:ImageGlass主要使用C#进行开发，采用轻量级的设计，确保了软件的快速启动和高效运行，不会占用过多的系统资源。
+
+支持超过80种常见的图像格式，包括WEBP、GIF、SVG、PNG、JXL、HEIC等，满足了不同用户的需求。
+
+除了基本的图像查看功能外，ImageGlass还提供了诸如图像格式转换、缩放、旋转等高级功能，满足了用户的多样化需求。
+<br>
+Github：https://github.com/d2phap/ImageGlass<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/vOansgwMC7jpdt3fOMukUg?token=413858659&lang=zh_CN)
+
+**274、Dapper.SimpleCRUD：Dapper的CRUD助手(Dapper.SimpleCRUD)**:Dapper.SimpleCRUD是一个开源项目，它基于Dapper开发的，为开发者提供了简单的CRUD操作帮助器。
+
+Dapper本身是一个轻量级的ORM框架，它允许开发者使用SQL语句直接操作数据库，同时又能享受到ORM带来的便利，如参数化查询等。
+
+而Dapper.SimpleCRUD则进一步简化了这一过程，让开发者能够更轻松地执行CRUD操作。
+<br>
+Github：https://github.com/ericdc1/Dapper.SimpleCRUD<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/rZIbLoYb_sTLffgPZF_Log?token=413858659&lang=zh_CN)
+
+**273、PDFPatcher：一个无所不能的开源PDF处理工具(PDFPatcher)**:如果你工作中，经常需要处理PDF文件，那这款工具绝对可以满足你的所有需求，PDFPatcher一款功能强大的开源PDF处理工具。
+<br>
+Github：https://github.com/wmjordan/PDFPatcher<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/eI3vwpJHDW6snnzCschQUg?token=413858659&lang=zh_CN)
+
+**272、tesseract：一个.Net版本的开源OCR项目(tesseract)**:tesseract是针对Tesseract-OCR（C++）引擎封装的.NET版本，支持超过100种语言的文本识别，使得.NET开发者能够轻松地利用Tesseract的强大功能，无需深入了解OCR的底层技术。
+
+此项目缺点是，只能识别印刷的文本，针对手写的需要自己训练语言包。
+<br>
+Github：https://github.com/tesseract-ocr/tessdata_fasthttps://github.com/charlesw/tesseract<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/qQZpMvU9eWmfRQAlCQfBPg?token=413858659&lang=zh_CN)
+
+**271、Html2OpenXml：HTML转化为OpenXml的.Net库，轻松实现Html转为Word。(html2openxml)**:Html2OpenXml 是一个开源.Net库，旨在将简单或复杂的HTML内容转换为OpenXml组件。
+该项目始于2009年，最初是为了将用户评论转换为Word文档而设计的
+随着时间的推移，Html2OpenXml 不断发展和完善，现在已经成为处理HTML到OpenXml转换的强大工具。
+<br>
+Github：https://github.com/onizet/html2openxml<br/>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/rCmwSmROf4D1HN5xUZEZpQ?token=413858659&lang=zh_CN)
+
 **270、Pidgin：一个轻量级、快速且灵活的C#解析库(Pidgin)**:Pidgin是基于C#的开源项目，是一个解析组合器库，提供了一个高级别的声明性工具来构建解析器，使得编写解析器变得简单而直观。
 <br>
 Github：https://github.com/benjamin-hodgson/Pidgin<br>
