@@ -29,6 +29,36 @@
 =
 （排名不分先后）<br>
 
+**289、BotSharp：面向AI Bot平台构建者的开源机器学习框架(BotSharp)**:BotSharp涉及自然语言理解、计算机视觉和音频处理技术，帮助开发者在信息系统中的开发和应用智能机器人助手。
+兼容多种 AI 平台，如 ChatGPT 3.5/4.0、Gemini 2、LLaMA 3、Claude Sonnet 3.5、HuggingFace 等。
+<br>
+Github：PSD:\> git clone https://github.com/SciSharp/BotSharp-UID:\> git clone https://github.com/SciSharp/BotSharp-UIhttps://github.com/SciSharp/BotSharp<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/x9e1Wk0-IpX8ec4P6irDaA?token=1603845010&lang=zh_CN)
+
+**288、微软官方新推出一个面向Windows开发者本地运行AI模型的开源工具(ai-dev-gallery)**:集成了来自微软自家和第三方平台（如Hugging Face、GitHub）的预训练AI模型。可以帮助Windows开发人员学习如何将具有本地模型和API的AI添加到Windows应用程序中。
+<br>
+Github：https://github.com/microsoft/ai-dev-gallery<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/xoq9mkvrqhsU4oMagGBxnA?token=1603845010&lang=zh_CN)
+
+**287、DesignPatterns：一个包含常用设计模式的C#示例代码合集(DesignPatterns)**:该项目提供了设计模式的解决方案，这些模式是针对常见问题的指导原则。目标是帮助初学者通过实际代码示例来学习设计模式。
+<br>
+Github：https://github.com/abishekaditya/DesignPatterns<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/3vrBdalVAN8cUC4L44_REQ?token=1603845010&lang=zh_CN)
+
+**286、cs-script：一个非常成熟的C#脚本开源引擎(cs-script)**:CS-Script是非常成熟的C#脚本引擎，自2004年起就发布了，即.NET发布后的两年。
+
+支持托管和独立（CLI）执行模型，可以作为PowerShell的纯C#替代品，也可以通过托管脚本引擎在运行时扩展.NET应用程序。
+
+允许在不影响代码库的情况下无缝切换底层编译技术，目前支持的编译器有dotnet.exe和csc.exe。
+<br>
+Github：https://github.com/oleg-shilo/cs-script<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/fuRDPUDgz0oBlbrxBacoWg?token=1603845010&lang=zh_CN)
+
+**285、QuickLook：一个基于.Net开发、按空格键快速预览文件内容Windows开源工具(QuickLook)**:QuickLook是基于.Net开发的开源项目，在Windows平台实现类似macOS 系统中的“Quick Look”功能。
+Quick Look最核心功能是按下空格键，可以快速预览文件内容。
+<br>
+Github：https://github.com/QL-Win/QuickLook<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/j5q0QJ-sMg67sEGxJDkm9w?token=1603845010&lang=zh_CN)
 
 **284、RepoDB：一个介于Dapper、EFCore之间.Net的ORM库(RepoDB)**:RepoDB 提供了基本操作所需的方法，同时也提供了一些高级功能，如第二层缓存、跟踪、仓储、属性处理器和批量/大量操作。支持的数据库，包括SqlServer、SQLite、MySql和PostgreSql等。
 <br>
