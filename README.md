@@ -29,6 +29,23 @@
 =
 （排名不分先后）<br>
 
+**292、FluentCMS：基于ASP.NETCore和Blazor技术构建的开源CMS内容管理系统(FluentCMS)**:FluentCMS 是一个基于强大的 ASP.NET Core 和创新的 Blazor 技术构建的现代内容管理系统（CMS）。
+FluentCMS 设计为快速、灵活且用户友好，它不仅是一个传统的基于内容的 CMS，还是一个无头（Headless）CMS ，使其非常适合各种应用场景。
+此项目还在开发中，还有部分问题，可以当着学习项目。
+<br>
+Github：https://github.com/fluentcms/FluentCMS<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/ypKMXPKRCjCZxmPXsj7RiA)
+
+**291、天天使用Linq，还不知道MoreLINQ的都必须看看！太强大了。(MoreLINQ)**:MoreLINQ 通过扩展方法增强了 LINQ to Objects，使其更加丰富和灵活。这些扩展方法保持了 LINQ 的精神，提供了更多的操作和功能。
+<br>
+Github：https://github.com/morelinq/MoreLINQ<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/GihHY1hd29OM3XPMSxSL1Q)
+
+**290、重磅！微软开源最强小模型Phi-4，超GPT-4o、可商用()**:微软在 Hugging Face 平台上，开源小语言模型 Phi-4，感兴趣的可以下载、微调和部署该 AI 模型。
+<br>
+Github：https://huggingface.co/microsoft/phi-4<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/dOEmf_TIp380xZh_wZK-Qg)
+
 **289、BotSharp：面向AI Bot平台构建者的开源机器学习框架(BotSharp)**:BotSharp涉及自然语言理解、计算机视觉和音频处理技术，帮助开发者在信息系统中的开发和应用智能机器人助手。
 兼容多种 AI 平台，如 ChatGPT 3.5/4.0、Gemini 2、LLaMA 3、Claude Sonnet 3.5、HuggingFace 等。
 <br>
