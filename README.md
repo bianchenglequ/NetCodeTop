@@ -29,6 +29,157 @@
 =
 （排名不分先后）<br>
 
+**322、微软新利器！winappCLI：一键打包、调试、集成Windows原生能力(winappCli)**:可以一键初始化开发环境、一键打包，让我们从繁琐的环境搭建中解脱出来，从而将更多精力集中在代码编写与产品创新上。
+<br>
+Github：GitHub：https://github.com/microsoft/winappCli<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Ecv91BZcePggbOQ4h_2pOw)
+
+**321、qdrant-dotnet：官方提供的开源.NET客户端库，用于与Qdrant向量搜索引擎操作！(qdrant-dotnet)**:该客户端库提供了对 Qdrant REST API 和 gRPC 接口的完整封装.
+<br>
+Github：https://github.com/qdrant/qdrant-dotnethttps://github.com/qdrant/qdrant-dotnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/7qSY-36jK96jzSB5W7HCug)
+
+**320、sqlite-net：推荐一个.NET版本简单、强大、跨平台的SQLiteORM开源库(sqlite-net)**:一个轻量级、简单且功能强大的跨平台 SQLite 客户端和 ORM（对象关系映射）库，专为 .NET 平台设计。
+<br>
+Github：https://github.com/praeclarum/sqlite-nethttps://github.com/praeclarum/sqlite-net<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/udkJVxHBxB-txwv5LfXHjQ)
+
+**319、obfuscar：一个针对C#代码混淆的开源工具(releases)**:一个开源的 .NET 程序集混淆工具，旨在为 .NET 应用程序提供基础的代码保护功能。该项目采用 MIT 许可证 发布，意味着它是完全免费且可自由使用、修改和分发的。
+<br>
+Github：https://github.com/obfuscar/obfuscar/releaseshttps://github.com/obfuscar/obfuscar/releases<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Wa2X2Ik_ZQVmLMe5JK-phw)
+
+**318、一个C#开发的Windows驱动程序管理工具！(DriverStoreExplorer)**:RAPR是一款功能强大的驱动程序存储区浏览器。主要用于管理和清理 Windows 系统中的驱动程序存储（Driver Store），帮助用户高效维护系统驱动。
+<br>
+Github：https://github.com/lostindark/DriverStoreExplorerhttps://github.com/lostindark/DriverStoreExplorer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/wn7Plvlgtyl7rkCZgSVMKg)
+
+**317、FASTER：快速、持久、可恢复的日志和键值存储+缓存，使用C#和C++实现。(FASTER)**:由微软开发的高性能、持久化、可恢复的并发日志和键值存储系统，支持 C# 和 C++ 语言。
+<br>
+Github：https://github.com/microsoft/FASTERhttps://github.com/microsoft/FASTER<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/RqYvo6vuuFV1BVYLiYUrMg)
+
+**316、Humanizer：一个功能强大开源.NET库，提供对字符串、枚举、日期、时间、时间跨度、数字和数量等扩展方法(Humanizer)**:一个功能强大且广受欢迎的开源 .NET 库，其核心目标是将机器友好的数据转换成人类更易读、更自然、更符合语言习惯的格式。
+<br>
+Github：https://github.com/Humanizr/Humanizerhttps://github.com/Humanizr/Humanizer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/_Ak9wgttRc2mf6Hb5oDxzA)
+
+**315、NetMQ：高性能异步ZeroMQ消息库的客户端(netmq)**:一个非常轻量级的消息处理库，支持多种消息模式，方便开发者构建分布式和并行应用。
+<br>
+Github：https://github.com/zeromq/netmq<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/gqj6iRugq5d6ACfeW6uoSQ)
+
+**314、LibreHardwareMonitor：.Net开发的开源硬件监控项目(LibreHardwareMonitor)**:一个开源的硬件监控软件，能够实时监测计算机的各种硬件信息，包括温度传感器、风扇转速、电压、负载以及时钟速度等。
+<br>
+Github：https://github.com/LibreHardwareMonitor/LibreHardwareMonitorhttps://github.com/LibreHardwareMonitor/LibreHardwareMonitor<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/48os--aZyKwcanoOonH3aA)
+
+**313、SwarmUI：基于.Net开发的开源AI图像生成Web用户界面系统(SwarmUI)**:SwarmUI，前身为 StableSwarmUI，是一个模块化的 AI 图像生成 Web 用户界面，具备简单易用、高性能和可扩展性的特点。
+<br>
+Github：gitclone https://github.com/mcmonkeyprojects/SwarmUIhttps://github.com/mcmonkeyprojects/SwarmUI<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/XEVfVKh4JWbYrRWtfxWntA)
+
+**312、Duplicati：一款跨平台的备份客户端，支持加密、增量、压缩的备份存储在云存储服务和远程文件服务器(duplicati)**:一个跨平台的免费、开源的备份客户端，可以安全地将加密、增量、压缩的备份存储在云存储服务和远程文件服务器上。
+<br>
+Github：https://github.com/duplicati/duplicati<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/TO9E_SqtLmcGw38aRPL6Kw)
+
+**311、推荐一个微软官方开源浏览器自动化工具，可以用于UI自动化测试、爬虫等，具备.Net、Java、Python等多个版本！(playwright-dotnet)**:开源浏览器自动化工具。 支持 Chromium、WebKit 和 Firefox 浏览器，且在不同操作系统（Linux、macOS 和 Windows）上均能良好运行，可在不同环境和浏览器间进行统一的自动化操作。
+<br>
+Github：https://github.com/microsoft/playwright-dotnet<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/HdricfQU53Bg0ttD9ZqIqA)
+
+**310、OpenRA：一款基于C#开发的跨平台实时战略游戏引擎，适用于早期Westwood游戏，如《命令与征服：红色警戒》(OpenRA)**:跨平台实时战略游戏引擎，利用 SDL 和 OpenGL 技术，确保了其在 Windows、Linux、*BSD 和 Mac OS X 等多种操作系统上的流畅运行。
+<br>
+Github：https://github.com/OpenRA/OpenRA<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/z3QvJfkN7GfPdjoSdrIK_w)
+
+**309、WebOptimizer：轻松实现CSS和JavaScript的压缩与打包，全面提升ASP.NETCore性能(WebOptimizer)**:一个专为 ASP.NET Core 设计的开源工具，用于在运行时对 CSS 和 JavaScript 文件进行 打包（Bundling） 和 压缩（Minification），从而提升 Web 应用的性能。
+它通过中间件的方式在服务器端处理静态文件，支持缓存优化和高度可扩展的管道配置。
+<br>
+Github：https://github.com/ligershark/WebOptimizer<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/IBNid-p1uul6bYtXS4hIiQ)
+
+**308、MahApps.Metro：专为WPF应用程序设计的UI框架(MahApps.Metro)**:一个开源的 UI 框架，它可以让开发者快速构建现代化、美观的 WPF 应用程序。
+
+提供了一套完整的 UI 组件和主题，支持流畅的动画效果和直观的用户体验。
+<br>
+Github：https://github.com/MahApps/MahApps.Metro<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/BSlznsH9JD6zmiE7X-id7Q)
+
+**307、UnitOfWork：一个支持多数据库，工作单元模式、支持分布式事务以及支持MySQL多数据库/表分片的开源项目(UnitOfWork)**:一个基于 Microsoft.EntityFrameworkCore 的插件，目标是简化复杂数据库操作.
+<br>
+Github：https://github.com/arch/UnitOfWork<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/lhVgh8XbTmwIfPZrAbmtoQ)
+
+**306、FlexLabs.Upsert：EFCore插件推荐，支持多数据库的Upsert功能(FlexLabs.Upsert)**:一个为Entity Framework Core（EF Core）提供Upsert功能的开源库，它允许在插入数据时，如果存在冲突（如主键或唯一键冲突），则更新现有记录。
+
+这个库支持多种常见的数据库提供者，如PostgreSQL、Sqlite、SqlServer、Oracle和MySQL，并且使用它们各自的原生SQL语法来执行Upsert操作。
+<br>
+Github：https://github.com/artiomchi/FlexLabs.Upsert<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/0_j08Q8RbwS7UivaUKRsRA)
+
+**305、SharpBrowser：用C#打造超快的个性化开源浏览器！(SharpBrowser)**:一个用 C# 和 CefSharp 开发的全功能网页浏览器。它声称是最快的开源 C# 网页浏览器，渲染网页的速度比谷歌浏览器还快，因为其使用轻量级的 CEF 渲染器。
+<br>
+Github：https://github.com/sharpbrowser/SharpBrowser<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/P3v9NXP0ufceT86nZNRkFw)
+
+**304、ZLinq：意在替代Linq的高性能.Net开源库(ZLinq)**:由 Cysharp 团队开发的开源项目，目标是为所有 .NET 平台和 Unity 提供零分配的 LINQ 实现。它通过利用 Span 和 SIMD 技术，优化了 LINQ 的性能，同时提供了对树形结构（如文件系统、JSON、游戏对象等）的查询支持。
+<br>
+Github：https://github.com/Cysharp/ZLinq<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/1eytRB21Zf4jfjzv-z5y5Q)
+
+**303、Dapper-Plus：一个基于Dapper的.Net扩展库，提供高性能的批量操作功能(Dapper-Plus)**:个基于 Dapper 的扩展库，专注于提供高性能的批量操作功能。它不仅可以与 Dapper 一起使用，还兼容其他所有 Dapper 包。通过简单的配置和映射，开发者可以轻松实现高效的数据库批量操作。
+<br>
+Github：https://github.com/zzzprojects/Dapper-Plus<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/1r61ijHY3N2ubNzVwO4g9g)
+
+**302、example-voting-app：一个学习容器化应用开发和运维的绝佳范例。(example-voting-app)**:简单而经典的应用示例，实现了投票和结果展示的功能。介绍使用 Docker、Docker Compose、Docker Swarm 和 Kubernetes 等工具来构建、部署和管理分布式应用。
+<br>
+Github：https://github.com/dockersamples/example-voting-app<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/F4kKPDUgJT7aoieD8U4TUQ)
+
+**301、SmartFormat：轻量级文本模板库，轻松替代string.Format(SmartFormat)**:不仅继承了 string.Format 的功能，还扩展了更多高级特性，例如命名占位符、列表格式化、本地化支持、复数化等。SmartFormat 提供了高性能、低内存占用的运行时格式化能力。
+<br>
+Github：https://github.com/axuno/SmartFormat<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/8_woE2PoQ1F53e6iw9hDVA)
+
+**300、Squidex：一个基于.Net功能强大的CMS开源项目(squidex)**:无头内容管理系统（Headless CMS），主要用于构建和管理复杂的内容管理系统。
+<br>
+Github：https://github.com/Squidex/squidex<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/sGh6sbTcRvQZMmw-ALKDsA)
+
+**299、barcodelib：一个功能强大且易于使用的C#条形码生成库(barcodelib)**:一个简单易用的类库，用于从数据字符串生成各种类型的条形码图像。
+<br>
+Github：https://github.com/barnhill/barcodelib<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/Va8sSic1HZAZPc0AbFOm_g)
+
+**298、html-agility-pack：一个开源HTML解析器，并支持纯XPATH或XSLT(html-agility-pack)**:一个开源的 HTML 解析库。
+<br>
+Github：https://github.com/zzzprojects/html-agility-pack<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/WlEizGCvs6S12LnRvc-cOA)
+
+**297、hashids.net：一个让你的ID不再暴露的小工具，用短哈希隐藏敏感数字(hashids.net)**:小型的 .NET 包，能够将数字（如 347）或数字数组（如 [27, 986]）转换为简短且难以猜测的字符串（如 yr8 或 3kTMd）。
+<br>
+Github：https://github.com/ullmark/hashids.net<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/xibbDekG0clzUpt5g_-1tg)
+
+**296、EquinoxProject：一个适合学习DDD、CQRS、EventSourcing等技术.NetWeb框架搭建开源项目(EquinoxProject)**:通过该项目，我们可以学习如何利用最新的 .NET 技术构建高质量的应用程序。
+<br>
+Github：https://github.com/EduardoPires/EquinoxProject<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/pwG6ueZXAS0uPjyWjCB26g)
+
+**295、.NET图像处理新利器！PhotoSauce：高质量、高性能图像大小调整开源工具(PhotoSauce)**:高性能、高质量图像.NET 处理库。它提供了简单易用的 API，能够高效地完成复杂的图像处理任务，尤其在图像缩放、颜色管理、高质量重采样和锐化等方面表现出色。
+同时提供Web 图像大小自动处理解决方案：WebRSize。能够轻松集成到现有的 Web 应用中，并为现有的基于 System.Drawing 的解决方案提供无缝升级路径。
+<br>
+Github：https://github.com/saucecontrol/PhotoSauce<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/xzNW4Ua2zd5szCdf5dgSPw)
+
+**294、Phi小模型开发教程：C#使用本地模型Phi视觉模型分析图像，实现图片分类、搜索等功能()**:Phi-vision 是一个拥有 42 亿参数的多模态模型，具备语言和视觉能力，这个模型就具备图片识别能力，我们可以利用Phi-vision来实现我们想要的功能。
+<br>
+Github：<br>
+详细介绍：[点击查看](https://mp.weixin.qq.com/s/WApRxGbdhAqHbEgJbvCcmQ)
+
 **293、EarTrumpet：一个基于.Net开发的专为Windows系统设计开源的音量控制开源工具。(EarTrumpet)**:一个系统托盘工具，通过可视化音频波形和多通道支持，为用户提供对应用程序音量的精细控制。
 
 它允许用户为每个应用程序单独调整音量，并支持将应用程序的音频输出切换到不同的设备。
